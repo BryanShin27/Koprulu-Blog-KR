@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-title: Koprulu
+title: 코프룰루
 logo: '/images/icon.png'
-description: Team Koprulu development news site.
+description: 팀 코프룰루 개발 소식 사이트
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -10,22 +10,22 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # Author Settings
 author:
-  name: Kat
-  avatar: '/images/KatAvatar.png'
+  name: Vanya
+  avatar: '/images/SC.png'
 
 
 #-------------------------------
 # Hero Settings
 hero:
-  title: Starcraft Evolution Complete
-  description: Team Koprulu
+  title: Starcraft Evolution Complete<n/><n/>스타크래프트 에볼루션 컴플리트
+  description: 팀 코프룰루
   image: '/images/bannerLarge.jpg'
 
 
 #-------------------------------
 # Contact Settings
 contact:
-  email: # Add your email for contact form
+  email: scevo.kr@gmail.com
   description: Norlin comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
