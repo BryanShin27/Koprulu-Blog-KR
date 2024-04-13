@@ -1,28 +1,31 @@
 ---
 layout: page
-title: About
+title: 소개
 permalink: /about/
 image: '/images/bannerLarge.jpg'
 ---
 
 ![]({{site.baseurl}}/images/KopruluLogoProject.png)
 
-Hi, We're Team Koprulu a group of modders working to create the highest quality StarCraft content that we're able to make. We currently have our sights set on recreating the entirety of StarCraft 1 and it's campaigns in the StarCraft 2 Engine.
+안녕하세요. 저희는 가능한 한 최상의 스타크래프트 컨텐츠를 만들고자 협업하는 모드 개발팀, **팀 코프룰루(Team Korprulu)**입니다. 저희의 현 목표는 스타크래프트 1 전체를 새로운 캠페인과 함께 현대적인 스타크래프트 2 엔진 속에 이식하는데 있습니다.
 
-At this time we're even including two additional spinoff projects:
-* The Crossover Mod a mod capable of pitting the sc1 and sc2 races together in as even a playing field as we can craft.
-* The Legacy mod, a total conversion that completely replaces the sc2 races with their BroodWar counterparts recreating all the original mechanics and unit stats.
+동시에 저희는 두 가지 프로젝트 또한 진행하고 있습니다:
+* SC: Evo - 스타: 이보 모드에서 스타1은 스타2와 공존하여 대결할 수 있습니다. 스타1 세 종족은 원작에 충실하면서도 스타2와 형평성 있는 게임을 펼칠 수 있도록 소소하게 수정이 가해집니다.
+* SC: Evo Legacy mod - 레거시 모드는 스타1 종족끼리만 대결할 것을 전제로 합니다. 스타2로 이식해놓은 스타1 데이터 값에 전혀 수정을 가하지 않았으며, 자원 채집량이나 고갈 이후에도 채집되는 베스핀 간헐천, 빗나감 확률, 언덕 시야, 강제적 전체 시전 등의 스타1 요소가 구현되어있습니다.
 
-Our Campaign offering which is currently under development will include new Units, Abilities, Upgrades, Heroes, a brand new Progression System, Redesigned Missions and Terrains as well as a host of new features and changes to the Campaigns, You can download the Demo in our Mapster Page. 
+개발이 진행중인 저희의 캠페인은 새로운 유닛, 능력, 업그레이드와 영웅이 추가되며, 그밖에도 새로운 진척도 시스템, 재구성된 임무와 지형 및 기타 여러 요소를 담고 있습니다. 저희의 맵스터 페이지에서 데모를 다운하여 플레이해보실 수 있습니다.
 
-We'd like for people to join us in our journey as we work to deliver the Ultimate BroodWar Remake.
+<a href="https://www.sc2mapster.com/projects/starcraft-evolution-complete/files/" target="_blank">캠페인 데모버전 다운로드 링크</a>
+
+
+저희가 궁극의 브루드워 리메이크를 만드는 여정에 여러분께서 함께 참여해주시기를 바랍니다.
 
 <iframe src="https://www.youtube.com/embed/fjIEpeKHqSk?si=OiLK8TTFEoipDjAX" frameborder="0" allowfullscreen></iframe>
 
 
 
-You can help us fund the Project's Models by Donating to our <a href="https://paypal.me/KopruluKat/" target="_blank">Paypal</a>. 
-_All the money received goes directly to the Modellers and Data Engineers._
+저희 프로젝트의 모델링 구매를 돕고자 하신다면 이쪽 <a href="https://paypal.me/KopruluKat/" target="_blank">페이팔</a>로 후원해주시면 됩니다.
+_모든 후원금은 모델링 아티스트와 개발팀 내부의 데이터 공학자분들께 직접적으로 전달됩니다._
 
-_This site is still under construction and all articles are subject to change_
+_이 사이트는 아직 준비 단계이며 모든 글 내용은 변화할 수 있습니다._
 <hr>
