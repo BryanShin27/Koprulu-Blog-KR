@@ -1,258 +1,257 @@
 ---
 layout: post
-title:  SC Evo Crossover Edition Release
-description: A re-release of the SC1 vs SC2 Extension now called Crossover Edition with some brand new mechanics and tons of rebalance updates
+title:  SC Evo Crossover 출시
+description: 스타1 vs 스타2 모드를 크로스오버 모드로 재출시하며 새로운 메커니즘과 여러 밸런스 패치를 가하였습니다.
 date:   2024-04-07 15:01:35 +0000
 image:  '/images/Crossover1_0.png'
 tags:   [crossover, release]
 ---
 
-## Evo Crossover Release 1.0
+## 이보 크로스오버 출시 v. 1.0
 
-Today we celebrate the release of the SC Evo Crossover Edition mod, this mod is a much more in-depth update of the old SC1 vs SC2 Extension mod including some new units, abilities and upgrades as well as a much better balanced AI.
+오늘 저희는 스타 이보 크로스오버 모드를 출시합니다. 크로스오버 모드는 기존의 이보 컴플리트 모드보다 스타1과 스타2 간의 대결에 더욱 심도있게 파고들어 새로운 유닛, 능력과 업그레이드를 추가하고 인공지능의 대결 능력을 향상시켰습니다.
 
-We want to start this new post on our new site by publishing the patchnotes for our upcoming Update 1.0 to the Crossover Edition as well as thank everyone who has made this project possible and all the love and passion we've seen from the Korean community that inspire this update. 
+저희는 먼저 크로스오버 1.0 패치 노트를 게시함으로써 이 새 사이트를 시작하고자 합니다. 이 프로젝트가 가능하게 한 모든 분들께 감사드리며, 특히 한국 커뮤니티가 보여준 열정과 사랑은 이 업데이트에 더욱 박차를 가하게 하였습니다.
 
-Coming in this update we're including the Reaver rework thanks to SardineS for allowing us to use his data and upgrade, you can find him at his [Twitch](https://www.twitch.tv/sardinestv) or [Youtube](https://www.youtube.com/@SardineS_tv) channel. Without further ado below are the update notes as well as some comments from the dev team on how or why some changes were made.
+이번 업데이트에서 저희는 SardineS의 너그러운 배려로 그의 데이터와 업그레이드를 받아서 리버를 개선하였습니다. 그의 [트위치](https://www.twitch.tv/sardinestv) 나 [유튜브](https://www.youtube.com/@SardineS_tv)에서 그를 만나보실 수 있습니다. 그럼 이제 지체없이 아래에 패치 내용과 그 이유에 관한 개발팀의 코멘트를 기술하겠습니다.
 
-For this update we have finished the Korean Translation featuring:
-- Fully Translated Text
-- Korean Voices
-- Korean Portrait Animations
+이번 업데이트를 위하여 저희는 다음 부분에서 한국어 로컬라이징을 마쳤습니다:
+- 모든 텍스트
+- 한국어 음성
+- 한국어에 맞는 유닛 립싱크
 
 ***
 
 ![]({{site.baseurl}}/images/Divider_Crossover.png)
 
-_For starters we've made several adjustments to the game balance of all three races to have a much more even fighting chance against their sc2 counterparts as well as removed several features that are exclusive to the legacy and campaign versions of the game._
+_첫째로 저희는 스타1이 스타2와 더 공평한 대결을 펼칠 수 있도록 밸런스를 조절하였으며, 레거시 모드나 캠페인에만 포함되어 있던 몇몇 기능을 삭제하였습니다._
 
-* Removed bonus damage vs Shields from Explosive and Concussive Weapons
-* Reworked Damage bonuses across most SC1 Units, Explosive and Concussive weapons now gain +1 damage to armored/light for each weapon upgrade (Damage bonuses from upgrades have been adjusted accordingly)
-* Reworked SC1 Unit Attributes
-* Adjusted Several Interactions between SC1 and SC2 Spells
-* Adjusted attack periods of most SC1 Units
+* 폭발형과 진동형 공격 타입의 실드 대상 추가 피해량을 삭제하였습니다.
+* 일반형 공격타입 유닛을 제외한 나머지 스타1 유닛의 추가 피해량 방식을 재구성하였습니다.
+* 방어력의 공격 경감량이 공격 타입에 따라 달라지던 점을 삭제하였습니다.
+* 스타1 유닛의 속성을 대거 조정하였습니다.
+* 스타1 기술과 스타2 기술 사이의 상호작용을 일부 조정하였습니다.
+* 대부분 스타1 유닛의 공격속도를 조정하였습니다.
 
-_These changes are aimed at making the weapons across both races compatible allowing the sc2 damage bonuses to work on sc1 units and vice versa._
+_이로써 스타2와 스타1 간의 추가 피해 상호작용이 더욱 잘 호환되는 것을 목표로 하였습니다._
 
-* Adjusted all Armor and Weapon Upgrade times to comply with the newest balance patch
-* Adjusted all Vespene Collector costs to comply with the newest balance patch
+* 공격력 및 방어력 업그레이드 연구 시간이 스타2의 최신 버전과 상응하도록 조정하였습니다.
+* 스타1의 가스 채취 건물 비용이 스타2와 동일하도록 조정하였습니다.
 
-_From the feedback we received on the terran sc1 vs sc2 balance some of the comments pointed out at the lack of a way to improve the unit production speed, while we do not yet have a solution we're exploring a couple options and if you have a suggestion feel free to drop it in the Discord._
+_스타1 테란이 스타2를 상대로 유닛 생산 시간을 개선할 수단이 부재하다는 피드백을 받았습니다. 아직 저희도 해법을 찾지는 못하였지만, 몇 가지 가능성을 고려하고 있으며 제안해주실 내용이 생길 경우에는 언제든지 저희 디스코드 서버로 오셔서 던져주시기 바랍니다._
 
-* AI is temporarily disabled
+* 섬멸전 인공지능이 일시적으로 비활성화됩니다
 
-_The AI has not yet been tuned due to several balance changes we've made as well as the AI being noticeably weaker than its sc2 counterpart. The builds are currently being adjusted and will be coming in the next major patch._
+_섬멸전 인공지능은 아직 저희가 시행한 밸런스 패치에 호응하도록 수정하지 못하였습니다. 더군다나 스타1 인공지능은 스타2 인공지능에 비하여 상당히 약한 상태에 머물러있습니다. 현재 인공지능 개선을 위한 데이터가 조정 중이며, 다음 주요 패치 때 출시될 예정입니다._
 
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
-* Added New Unit: *The Stinger* (Cost: 125/50, Requires Machine Shop)
-* Added New Unit Upgrade: *Helios Tracer Rounds* (Researched at Machine shop, requires Armory)
+* 새 유닛 추가: *스팅어 Stinger* (비용: 125/50, 머신 샵 요구)
+* 새 유닛 업그레이드 추가: *헬리오스 예광 탄환* (머신 샵에서 연구, 아머리 요구)
 
 ![]({{site.baseurl}}/images/stinger-showcase.png)
-*Stinger Model*
+*스팅어 모습*
 
 ![]({{site.baseurl}}/gifs/2024-07-04-stinger1.gif)
-*Base Stinger*
+*기본 스팅어*
 ![]({{site.baseurl}}/gifs/2024-07-04-stinger2.gif)
-*Helios Tracer Rounds Upgraded*
+*헬리오스 예광 탄환 연구*
 
 
-_The New Stinger unit is meant to help out Terran players with a response to the Cyclone, the Stinger can be built at the Factory and requires an attached Machine shop and is equipped with two weapons, a Gatling gun able to deal 8 damage (+8 vs Mechanical) and a Grenade Launcher that can only target buildings for 20 Damage, the Stinger can also be upgraded with the *Helios Tracer Rounds* allowing it to target enemies while moving._
+_새 유닛 스팅어는 테란 플레이어들이 사이클론에 더 잘 대응할 수 있도록 하며, 머신 샵이 부착된 팩토리에서 생산할 수 있습니다. 스팅어는 각각 8(기계 대상 +8)의 피해량을 입히는 두 개의 개틀링 건으로 무장하였으며, 오직 건물을 대상으로 20의 피해량을 입히는 유탄 발사기를 장착하였습니다. 더불어 스팅어는 *헬리오스 예광 탄환* 업그레이드를 통하여 이동 중에도 적에게 공격할 수 있습니다._
 
-_We cannot wait for players to get their hands on the Stinger and try out new strategies, we're open to any possible changes to this new Unit and we'd like to show our commitment and flexibility to add new things or make some changes._
+_저희는 더 많은 플레이어들이 이 유닛을 사용하며 새로운 전략을 시험해볼 것을 기대합니다. 저희는 이 유닛과 관련된 어떠한 변화 가능성에도 열려있으며, 이로써 저희가 혁신과 변화에 유연하고 열정적으로 대처할 준비되어있다는 점을 강조합니다._
 
 
-* Added Dropship Emergency Thrusters Upgrade at the Control Tower
-* Added Dropship Emergency Thrusters Ability
+* 컨트롤 타워에 드랍십의 긴급 추진기 업그레이드를 추가하였습니다.
+* 드랍십에 긴급 추진기 능력을 추가하였습니다.
 
 ![]({{site.baseurl}}/gifs/2024-07-04-dropship.gif)
-*Dropship using Emergency Thrusters*
+*긴급 추진기를 사용 중인 드랍십*
 
-_The new upgrade for the Dropship works in a similar way as the sc2 medivac but requires a previous research at the Control tower for 100 minerals and 100 vespene, allowing the Dropship to receive a temporary boost to leave sticky situations or make for quick drop-ins._
+_드랍십을 위한 새 업그레이드는 스타2 의료선과 동일하게 작용하지만 컨트롤 타워에서 연구 비용 100/100의 사전 연구를 요구합니다. 일시적 속도 상승을 통하여 드랍십은 곤란한 상황을 벗어나거나 목표 지점까지 신속히 유닛을 이송할 수 있게 됩니다._
 
 
-* Added the Ability for Bunkers to be Salvaged
-* Combined the Terran Vehicle and Starship Armor Upgrades into Terran Mech Plating
-* Increased Battlecruiser Health from 500 -> 550
-* Increased Battlecruiser Speed from 1.406 -> 1.875
-* Increased Dropship Health from 150 -> 165
-* Increased Dropship Acceleration from 1.06 -> 1.5
-* Reduced Command Center Cost from 400 Minerals -> 350
-* Reduced Factory Cost from 200 Minerals -> 150
-* Increased Ghost Damage from 5 (10 vs Light) -> 8 (16 vs Light)
-* Increased Ghost Speed from 2.25 -> 2.5
-* Increased Marine Sight range from 8 -> 9
-* Reduced Marine Weapon Attack period from 0.9375 -> 0.8608
-* Reduced the SCV Health from 60 -> 45
-* Reduced Firebat Attack Period from 1.375 -> 1.25
-* Reduced Firebat cost from 75 Minerals -> 50 Minerals
-* Reduced Firebat and Marine Stimpack life cost 10 -> 5
-* Increased the Siege Tank Supply Cost from 2 -> 3 and Vespene Cost 100 -> 125
-* Increased Siege Tank Sieged Weapon Range from 12 -> 13
-* Reduced Siege Tank Weapon Attack period from 2.3125 -> 2.05
-* Reduced Goliath Air Weapon Attack Period from 1.5 -> 1.25
-* Reduced Goliath Ground Weapon Attack Period from 1.375 -> 1.22
-* Reduced Missile Turret Weapon Attack period from 0.9375 -> 0.8608
-* Reduced Valkyrie Weapon Attack period from 4 -> 3.7631
-* Reduced Wraith Air Weapon Attack period from 1.375 -> 1.25
-* Reduced Vulture Damage 10 (vs. Light 20) -> 7 (vs. Light 14)
-* Added Light attribute to Vulture
-* Reduced range Vulture can deploy spider mines from 3 -> 1
-* Spider Mines no longer collides with 'Hover' attributed units
-* Increased Spider Mine model size slightly
+* 벙커에 회수 능력을 추가하였습니다.
+* 아머리의 차량 방어력 업그레이드와 우주선 방어력 업그레이드를 하나로 통합하였습니다.
+* 배틀크루저의 체력이 500에서 550으로 증가하였습니다.
+* 배틀크루저의 이동 속도가 1.406에서 1.875로 증가하였습니다.
+* 드랍십의 체력이 150에서 165로 증가하였습니다.
+* 드랍십의 가속력이 1.06에서 1.5로 증가하였습니다.
+* 커맨드 센터의 미네랄 비용이 400에서 350으로 감소하였습니다.
+* 팩토리의 미네랄 비용이 200에서 150으로 감소하였습니다.
+* 고스트의 피해량이 5 (경장갑 대상 10)에서 8 (경장갑 대상 16)으로 증가하였습니다.
+* 고스트의 이동 속도가 2.25에서 2.5로 증가하였습니다.
+* 마린의 시야 범위가 8에서 9로 상승하였습니다.
+* 마린의 공격 주기가 0.9375에서 0.8608로 감소하였습니다.
+* SCV의 체력이 60에서 45로 감소하였습니다.
+* 파이어뱃의 공격 주기가 1.375에서 1.25로 감소하였습니다.
+* 파이어뱃의 미네랄 비용이 75에서 50으로 감소하였습니다.
+* 파이어뱃과 마린의 스팀팩 체력 소모가 10에서 5로 감소하였습니다.
+* 시즈 탱크의 보급 소모량이 2에서 3으로 증가하였고, 가스 비용이 100에서 125로 증가하였습니다.
+* 시즈 모드된 시즈 탱크의 사거리가 12에서 13으로 증가하였습니다.
+* 시즈 탱크의 공격 주기가 2.3125에서 2.05로 감소하였습니다.
+* 골리앗의 공중 공격 주기가 1.5에서 1.25로 감소하였습니다.
+* 골리앗의 지상 공격 주기가 1.375에서 1.22로 감소하였습니다.
+* 미사일 터렛의 공격 주기가 0.9375에서 0.8608로 감소하였습니다.
+* 발키리의 공격 주기가 4에서 3.7631로 감소하였습니다.
+* 레이스의 공중 공격 주기가 1.375에서 1.25로 감소하였습니다.
+* 벌처의 공격력이 10 (경장갑 대상 20)에서 7 (경장갑 대상 14)로 감소하였습니다.
+* 벌처에 경장갑 속성이 추가되었습니다.
+* 벌처가 스파이더 마인을 심을 수 있는 범위가 3에서 1로 감소하였습니다.
+* 더 이상 스파이더 마인이 '부유'속성 유닛과 충돌하지 않습니다.
+* 스파이더 마인의 크기가 조금 증가하였습니다.
 
 ***
 
-_Similarly with the other races the Protoss also suffer from a reduced production speed mostly due to the existence of Warp Gates for the sc2 Protoss, to that end we've added a new Upgrade to Gateways for the Mid-Late Game, we'd like some more feedback on the current Upgrade Requirements._
+_다른 종족과 마찬가지로 프로토스 또한 스타2의 차원관문과 비교하였을 때 생산 속도에서 뒤처졌습니다. 이를 해결하고자 저희는 경기의 중후반을 위한 새로운 게이트웨이 업그레이드를 추가하였습니다. 이 업그레이드 요구사항에 대한 피드백을 받는 중입니다._
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
-* Added Gateway Resonant Matrix Upgrade at the Citadel of Adun
-* Added Gateway Resonant Matrix Passive Ability
+* 시타델 오브 아둔에 게이트웨이의 공명 매트릭스 연구를 추가하였습니다.
+* 게이트웨이에 공명 매트릭스 패시브 능력을 추가하였습니다.
 
 ![]({{site.baseurl}}/gifs/2024-07-04-matrix.gif)
-*Resonant Matrix Producing two Units*
+*공명 매트릭스를 통해 동시에 두 유닛을 생산하는 모습*
 
-_This new upgrade is meant to address an issue with the late game unit production for the protoss, it can be researched at the Citadel of Adun for 200 Minerals and 200 Vespne, requires the Arbiter Tribunal and allows Gateways to produce two units at the same time._
+_이 새 업그레이드는 프로토스의 후반 생산 능력 문제를 해결하고자 나왔습니다. 아비터 트라이뷰널을 요구하며, 시타델 오브 아둔에서 200/200의 비용으로 연구가 가능합니다. 이로써 게이트웨이는 동시에 두 유닛을 생산할 수 있습니다._
 
 
-* Reworked Reaver based on SardineS Reaver Mod
-    - Now uses SC1 mechanics with pathable scarab
-    - Base damage adjusted from 100 -> 60 (+20 bonus to shields)
-    - Reaver now gains weapon upgrades, gaining 6 base damage per upgrade
-    - Reaver Scarab Damage upgrade now gives +40 dmg vs armored
-    - Added new upgrade 'Imbued Lenses', increases Reavers range by 2
-    - Removed Reaver Capacity upgrade
-    - Changed Scarab costs 15 minerals -> 0 minerals 5 vespene 
+* SardineS의 리버 모드를 기반으로 리버 개편
+    - 이제 스캐럽이 스타1 방식으로 이동경로를 찾습니다.
+    - 기본 피해량이 100에서 60(실드 대상 +20)으로 감소하였습니다.
+    - 이제 리버는 공격력 업그레이드에 영향 받으며, 한 단계당 공격력이 6만큼 상승합니다.
+    - 이제 리버의 스캐럽 피해량 업그레이드가 중장갑을 대상으로 +40의 추가 피해를 가합니다.
+    - 새 업그레이드 '고취된 렌즈'가 추가되었습니다. 고취된 렌즈는 리버의 시야를 2만큼 증가시킵니다.
+    - 리버 수용량 증가 업그레이드를 삭제하였습니다.
+    - 스캐럽의 비용이 15/0 에서 0/5로 바뀌었습니다.
 
 <iframe src="https://www.youtube.com/embed/6R4cK9bLCYo?si=JjSYI_btacRr-WLK" frameborder="0" allowfullscreen></iframe>
-*Showcase Video of the Reaver by SardineS*
+*SardineS의 리버 시연 영상*
 
-* Added the Ability for Observers to Morph into Surveillance Mode
+* 옵저버가 감시 모드로 전환하는 능력을 추가하였습니다.
 
 ![]({{site.baseurl}}/gifs/2024-07-04-observer.gif)
-*Observer using Surveillance Mode*
+*감시 모드를 사용 중인 옵저버*
 
-_Observers entering Surveilance Mode gain a much larger vision range at the cost of losing the ability to move until they're turned back to Observer mode._
-
-
-* Added a Weapon to the High Templar
-* Added a Weapon to the Dark Archon
-
-_Although Dark Archons and High Templars do not usually have weapons, one has been added with very low damage to help them from walking straight into the enemy._
+_감시 모드로 전환하는 옵저버는 관측 모드로 전환하기 전까지 이동할 수 없는 대신 시야가 증가합니다._
 
 
-* Reduced Nexus Costs from 400 Minerals -> 350
-* Reduced Dragoon base Damage from 15 -> 14
-* Increased Dark Templar Damage from 40 -> 45
-* Reduced Dark Templar attack period from 1.875 -> 1.694
-* Increased Zealot & Dark Templar weapon slop range 1.0 -> 1.3686
-* Reduced Zealot Weapon Attack period from 1.375 -> 1.3686
-* Dark Archon Feedback can no longer target structures or friendly targets
-* Dark Archon Mind Control can no longer target Frenzied units
-* Reduced Dark Archon Feedback Damage per energy from 1 -> 0.5
-* Increased High Templar Speed from 1.875 -> 2.0156
-* Increased High Templar Acceleration from 1.6875 -> 2.5
-* Increased the Shuttle Speed from 2.4882 -> 2.5507
-* Reduced the Arbiter Attack Period from 2.8125 -> 2.5312
-* Units hit by Arbiter Stasis can no longer be moved by allied units.
-* Reduced Photon Cannon Weapon Attack period from 1.375 -> 1.25
-* Increased Photon Cannon shields and life from 100 -> 150
-* Reduced Pylon shields and life from 300 -> 250
-* Adjusted Shield Battery range and recharge rates to match SC2 Battery
-* Hallucinations can no longer be instantly killed by various SC1 spells
+* 하이 템플러에 무기를 추가하였습니다.
+* 다크 아콘에 무기를 추가하였습니다.
+
+_본래 다크 아콘이나 하이 템플러는 무기를 가지지 않지만, 그들이 적에게 그대로 돌진하는 것을 막기 위하여 매우 낮은 피해량의 공격을 추가하였습니다._
+
+
+* 넥서스의 미네랄 비용이 400에서 350으로 감소하였습니다.
+* 드라군의 기본 피해량이 15에서 14로 감소하였습니다.
+* 다크 템플러의 공격력이 40에서 45로 증가하였습니다.
+* 다크 템플러의 공격 주기가 1.875에서 1.694로 감소하였습니다.
+* 질럿과 다크 템플러의 공격 선딜레이가 1.0에서 1.3686로 증가하였습니다.
+* 질럿의 공격 주기가 1.375 에서 1.3686로 감소하였습니다.
+* 다크 아콘의 피드백이 더 이상 구조물이나 아군을 대상으로 할 수 없습니다.
+* 다크 아콘의 피드백이 더 이상 광란 속성의 유닛을 대상으로 할 수 없습니다.
+* 다크 아콘의 피드백의 에너지 1당 가하는 피해량이 1에서 0.5로 감소하였습니다.
+* 하이 템플러의 속도가 1.875에서 2.0156로 증가하였습니다.
+* 하이 템플러의 가속력이 1.6875에서 2.5로 증가하였습니다.
+* 셔틀의 이동 속도가 2.4882에서 2.5507로 증가하였습니다.
+* 아비터의 공격 주기가 2.8125에서 2.5312로 감소하였습니다.
+* 아비터의 스테이시스 필드에 적중당한 유닛은 더 이상 동맹 유닛에 의하여 움직일 수 없습니다.
+* 포톤 캐논의 공격 주기가 1.375에서 1.25로 감소하였습니다.
+* 포톤 캐논의 실드와 생명력이 100에서 150으로 증가하였습니다.
+* 파일런의 실드와 생명력이 300에서 250으로 감소하였습니다.
+* 실드 배터리의 범위 및 회복 속도가 스타2의 보호막 충전소와 일치하도록 조정하였습니다.
+* 더 이상 할루시네이션이 다양한 스타1 기술에 의하여 즉시 소멸당하지 않습니다.
 
 ***
 
-_The biggest problem that we've identified with the Zerg as of yet has been a reduced production speed when compared to SC2 due to queens, to that end we've made some changes to the larvae. While this is not the only issue with the Zerg race, we'd like to gather additional feedback to make future adjustments._
+_여태까지 저희가 확인한 저그의 가장 큰 문제는 여왕의 부재로 오는 생산력 부족에 있었기에 저희는 라바를 통하여 변혁을 꾀하였습니다. 저그 종족에 비단 이 문제만 있는 것은 아니지만, 후에 추가 수정을 위한 피드백을 더 수집하고자 합니다._
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
-* Replaced Queen Ensnare with Ensnaring Creep Ability
+* 퀸의 인스네어를 속박 크립 능력으로 대체하였습니다.
 
 ![]({{site.baseurl}}/gifs/2024-07-04-queencreep.gif)
-*Queen using the new Ensnare Creep Effect*
+*퀸이 새 속박 크립 능력을 사용하는 모습*
 
-_Queens have received a modified ability replacing Ensnare, this Ability variant launches a mix of creep and the classic green goo to slow down enemies as well as create a Creep patch around the target aream this ability has a lot of potential and it could be used as part of a Nydus Proxy._
+_퀸에 인스네어를 대체할 능력을 부여하였습니다. 이 능력은 크립과 기존 인스네어를 혼합한 물질을 발사하여 적의 이동 속도를 감소시키고 그 주변에 크립을 생성합니다. 이 능력은 다양한 잠재력을 지니고 몰래 나이더스 커널 등의 방식으로 활용될 수 있습니다._
 
 
-* Increased Max Larva count for Lair from 3 -> 5
-* Increased Max Larva count for Hive from 3 -> 7
-* Decreased the Hatchery, Lair and Hive delay between larva spawns from 12 -> 10
+* 레어의 최대 라바 개수가 3에서 5로 증가하였습니다.
+* 하이브의 최대 라바 개수가 3에서 7로 증가하였습니다.
+* 해처리, 레어 및 하이브의 라바 생성 간격이 12에서 10으로 감소하였습니다.
 
 ![]({{site.baseurl}}/gifs/2024-07-04-lairlarva.gif)
-*Lair Holding 5 Larvae*
+*라바를 5기 보유한 레어*
 
 ![]({{site.baseurl}}/gifs/2024-07-04-hivelarva.gif)
-*Hive Holding 7 Larvae*
+*라바를 7기 보유한 하이브*
 
-_To help Zerg player unit production we're reducing the spawn delay for all Zerg town buildings as well as increasing the max amount of Larvae that can be idle at each building._
+_저그 플레이어의 유닛 생산을 돕기 위하여 저희는 모든 저그 기본 건물의 라바 대기 시간을 줄이고 최대 보유 라바 수를 늘렸습니다._
 
-* Reduced Hatchery Costs from 300 Minerals -> 250
-* Increased morph time of Lair 60 -> 80
-* Increased morph time of Hive 60 -> 100
-* Reduced Spore Colony morph time from 21 -> 16
-* **Overlords are no longer Detectors by Default**
-    - Overlords now Require Antennae Upgrade to become Detectors
-* Increased Overlord Speed upgrade research time 43 -> 60
-* Reduced the Overlord Speed from 0.9375 -> 0.6445
-* Reduced the Overlord Acceleration from 1.6875 -> 1.0625
-* Queen's Parasite now has a duration of 168 seconds.
-* Increased 'Spawn Broodling' research time 60 -> 140.
-* Reduced Hydralisk supply cost from 2 -> 1
-* Reduced Hydralisk Weapon Attack Period from 0.9375 -> 0.8437
-* Reduced Hydralisk range upgrade research time 100 -> 79
-* Reduced Hydralisk speed upgrade research time 100 -> 90
-* Reduced Ultralisk Weapon Attack period from 0.9375 -> 0.8437
-* Reduced Ultralisk model size to match SC2 Ultra 
-* Reduced Mutalisk Vespene Costs from 100 -> 75
-* Reduced Mutalisk Weapon Attack period from 1.875 -> 1.5246
-* Reduced Devourer Morph mineral cost from 150 -> 100
-* Increased Devourer Supply Cost from 2 -> 3
-* Increased Guardian Speed from 1.406 -> 2.25
-* Reduced Guardian Weapon Attack Period from 1.875 -> 1.5
-* Increased the Guardian Weapon Range from 8 -> 10
-* Increased Guardian Supply Cost from 2 -> 4
-* Adjusted incorrect Scourge cost values from 24 Minerals -> 25 and 74 Vespene -> 75
-* Dark Swarm now reduces ranged damage by 90% and ranged spell damage by 55%
-* Zerg units now unburrow correctly when lifted by Phoenixes
-* Queens Ensnare and Defiler Plague abilities no longer reveal targets in the fog of war.
+* 해처리의 미네랄 비용이 300에서 250으로 감소하였습니다.
+* 레어로의 변이 시간이 60에서 80으로 증가하였습니다.
+* 하이브로의 변이 시간이 60에서 100으로 증가하였습니다.
+* 스포어 콜로니로의 변이 시간이 21에서 16으로 감소하였습니다.
+* **오버로드가 더 이상 디텍터가 아닙니다**
+    - 이제 오버로드가 디텍터가 되기 위해서는 안테나 업그레이드가 필요합니다.
+* 오버로드 이동 속도 증가 업그레이드의 연구 시간이 43에서 60으로 증가하였습니다.
+* 오버로드의 이동 속도가 0.9375에서 0.6445로 감소하였습니다.
+* 오버로드의 가속력이 1.6875에서 1.0625로 감소하였습니다.
+* 퀸의 패러사이트 능력이 이제 168초의 지속시간을 지닙니다.
+* '브루들링 소환' 능력의 연구 시간이 60에서 140으로 증가하였습니다.
+* 히드라리스크의 보급품 비용이 2에서 1로 감소하였습니다.
+* 히드라리스크의 공격 주기가 0.9375에서 0.8437로 감소하였습니다.
+* 히드라리스크의 사거리 업그레이드 연구 시간이 100에서 79로 감소하였습니다.
+* 히드라리스크의 이동 속도 업그레이드 연구 시간이 100에서 90으로 감소하였습니다.
+* 울트라리스크의 크기가 스타2 울트라리스크와 일치하도록 조정하였습니다.
+* 뮤탈리스크의 가스 비용이 100에서 75로 감소하였습니다.
+* 뮤탈리스크의 공격 주기가 1.875에서 1.5246로 감소하였습니다.
+* 디바우러 변태의 미네랄 비용이 150에서 100으로 감소하였습니다.
+* 디바우러의 보급품 비용이 2에서 3으로 증가하였습니다.
+* 가디언의 이동 속도가 1.406에서 2.25로 증가하였습니다.
+* 가디언의 공격 주기가 1.875에서 1.5로 감소하였습니다.
+* 가디언의 사거리가 8에서 10으로 증가하였습니다.
+* 가디언의 보금품 비용이 2에서 4로 증가하였습니다.
+* 스커지의 비용이 24/74에서 25/75로 바르게 수정되었습니다.
+* 이제 다크 스웜이 원거리 공격을 90% 감소시키고 마법 공격을 55% 감소시킵니다.
+* 이제 저그 유닛이 불사조에 의해 들어올려질 때 제대로 언버로우 됩니다.
+* 더 이상 퀸의 인스네어나 디파일러의 플레이그 능력이 시야 밖으로 벗어난 대상을 드러내지 않습니다.
 
 ***
 
 ![]({{site.baseurl}}/images/Divider_CoreMods.png)
 
-* Added Ability data for **Emergency Thrusters**
-* Added Ability data for **Ensnaring Creep**
-* Added Upgrade data for **Resonant Matrix**
-* Added Upgrade data for **Helios Tracer Rounds**
-* Added Unit data for the **Stinger**
-* Added visual effect for Ultralisk speed Upgrage
-* Added data for combined Mech Plating Upgrades
-* Added the Ability for Changelings to morph into SC1 Races
-* Minor Data additions required for Crossover Update
-* The Discord Button on the Game Menu now has a delay before it becomes active once you hover over it
-* Adjusted Defiler spell animations
-* Adjusted Medic's Blind impact visual
-* Adjusted Arbiter missile and impact visuals
-* Adjusted Overlord speed being too high by default
-* Adjusted Shuttle model to be easier to click and select
-* Adjusted Observers model size to be bigger
-* Dark Archon Feedback can no longer target structures
-* Burrow and Unburrow Ability now share placement in the Command Card to match sc2
-* Burrow and Unburrow Commands are now able to be sent to other units currently selected
-* Default Burrow hotkeys have been adjusted to match sc2
-* Fixed Archon not dealing splash damage properly in Dark Swarm
-* Fixed missing text style errors
-* Fixed the missing Radius indicator for Scanner Sweep
-* Fixed issue where morph visual would remain after canceling Lair or Hive morphing
-* Fixed bug causing SCV's to gain weapon upgrades
-* Fixed issue on some Observatory death model not playing correctly
-* Fixed Fleet Beacon death model changing size
-* Removed Warp Prism reference from Shuttles
-* Removed several unused text keys
-* Updated a previously erroneous larva spawn value to 19.8
-* Optimized several texture assets
+* **긴급 추진기** 능력의 데이터를 추가하였습니다.
+* **속박 크립** 능력의 데이터를 추가하였습니다.
+* **공명 매트릭스** 능력의 데이터를 추가하였습니다.
+* **헬리오스 예광 탄환** 능력의 데이터를 추가하였습니다.
+* **스팅어** 유닛의 데이터를 추가하였습니다.
+* 울트라리스크의 이동 속도 업그레이드에 따른 시각 효과를 추가하였습니다.
+* 통합된 아머리 방어력 업그레이드 데이터를 추가하였습니다.
+* 변신수가 스타1 종족으로 변이할 수 있는 능력을 추가하였습니다.
+* 크로스오버 모드 업데이트를 위한 작은 데이터 추가
+* 이제 게임 메뉴의 디스코드 버튼에 커서를 대면 활성화되기까지 약간의 대기 시간이 필요합니다.
+* 디파일러의 마법 애니메이션을 조정하였습니다.
+* 메딕의 블라인드 타격 시각 효과를 조정하였습니다.
+* 아비터의 무기 및 타격 시각 효과를 조정하였습니다.
+* 오버로드의 이동 속도 기본값이 너무 높았던 버그를 수정하였습니다.
+* 셔틀이 더 쉽게 클릭될 수 있도록 조정하였습니다.
+* 옵저버의 크기가 커지도록 조정하였습니다.
+* 더 이상 다크 아콘의 피드백이 구조물을 대상으로 할 수 없습니다.
+* 버로우와 언버로우 능력이 스타2의 인터페이스와 동일한 위치에 있도록 조정하였습니다.* Burrow and Unburrow Commands are now able to be sent to other units currently selected
+* 버로우 단축키 기본값이 스타2와 동일하도록 조정하였습니다.
+* 아콘이 다크 스웜에서 제대로 방사 피해를 가하지 못하던 문제를 수정하였습니다.
+* 텍스트 스타일 에러 몇 개를 수정하였습니다.
+* 스캐너 스윕의 범위 표시 부재를 수정하였습니다.
+* 레어 및 하이브 변이 중 취소할 시 변이 애니메이션이 건물에 남아있던 문제를 수정하였습니다.
+* SCV가 공격력 업그레이드의 영향을 받는 버그를 수정하였습니다.
+* 일부 옵저버토리 사망 모션이 제대로 작동하지 않는 문제를 수정하였습니다.
+* 플릿 비콘이 사망 시 크기가 바뀌는 문제를 수정하였습니다.
+* 셔틀의 차원 분광기 부모값을 삭제하였습니다.
+* 몇몇 미사용 텍스트 키를 삭제하였습니다.
+* 기존의 바르지 않던 라바 생성 시간을 19.8로 수정하였습니다.
+* 몇몇 텍스쳐 자산을 최적화하였습니다.
 
 ***
