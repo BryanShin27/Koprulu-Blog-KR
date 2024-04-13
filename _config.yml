@@ -2,7 +2,7 @@
 # General Site Settings
 title: 코프룰루
 logo: '/images/icon.png'
-description: 팀 코프룰루 개발 소식 사이트
+description: 팀 코프룰루 개발 소식 페이지
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
