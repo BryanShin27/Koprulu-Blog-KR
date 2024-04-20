@@ -14,41 +14,49 @@ featured: true
 
 이번 변화 중 일부를 미리 소개해드리자면, 저희는 EMP, 인스네어나 디스럽션 웹 등 일부 기술의 에너지 비용을 낮추었습니다. 더불어 몇몇 유닛에 상향 조정을 가하였는데, 그 변화에 따른 이유를 함께 설명드리겠습니다.
 
-저희는 계속해서 밸런스 변화를 주시하며 필요에 따라 조정을 가할 것입니다. 동시에 스타1이 고유의 색채를 잃지 않도록 너무 많이 조정하는 것을 경계할 것입니다.
+저희는 계속해서 밸런스 변화를 주시하며 필요에 따라 조정을 가할 것입니다. 동시에 스타1이 고유의 색채를 잃지 않도록, 과하게 조정하는 것을 경계할 것입니다.
 
 ***
 
 ![]({{site.baseurl}}/images/Divider_Extension.png)
 
-* 이제 저그 유닛이 크립 위에서 1.2배 빨라집니다.
 
-_이 변화는 스타1 저그 플레이어가 초반 사신 찌르기와 같은 전략에 더 효과적으로 대응할 수 있도록 합니다. 이 속도 가중치는 스타2 저그보다 높지는 않지만, 이것이 일으킬 수 있는 잠재적 밸런스 문제에 관하여 주시할 것입니다._
+* 일부 업그레이드의 연구 비용을 수정하였습니다.
+
+_일부 스타1 유닛의 비용이 원본으로 회귀함으로써 비싸진 것에 대한 보상으로 그들의 업그레이드 비용을 수정하였습니다._
+
+* 일부 기술의 에너지 비용을 수정하였습니다.
+
+_스타1 플레이어가 기술을 더 자주 사용할 수 있도록 일부 기술의 에너지 비용이 감소하였습니다._
+
 ***
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
-| ![Flowers](/images/EvoExtension0_24.png) | I am text to the right |
+### <img src="{{site.baseurl}}/images/btn-unit-terran-firebat@scbw.png" width="50" height="50">   파이어뱃 / 마린
 
 * 파이어뱃의 체력이 50에서 55로 증가하였습니다.
 * 마린의 체력이 40에서 45로 증가하였습니다.
+* 마린의 U-238 탄환 연구의 비용이 50/50에서 50/100으로 증가하였습니다.
 
-_마린과 파이어뱃의 성능을 소폭 상향 조정하였습니다. 스팀팩을 사용한 마린이 맹독충 한방에 죽는 점, 파이어뱃이 가격에 비해 성능이 다소 아쉬운 점을 해결하고자 소극적 조치를 먼저 취하고 추후에 추가 패치 여부를 결정하겠습니다._
+_마린과 파이어뱃의 성능을 소폭 상향하였습니다. 소극적 상향이 불러올 변화를 주시하고, 필요에 따라 추가적인 조치를 취하고자 합니다._
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-goliath@scbw.png" width="50" height="50">   Goliath
+### <img src="{{site.baseurl}}/images/btn-unit-terran-goliath@scbw.png" width="50" height="50">   골리앗
 
 * 골리앗의 대공 사거리가 5에서 6으로 증가하였습니다.
 * 골리앗의 카론 부스터 업그레이드로 인한 사거리 증가량이 3에서 4로 증가하였습니다.
 
 _이번 골리앗 상향 조정은 골리앗이 폭풍함이나 해방선을 상대로 더 효과적으로 대응하도록 설계하였습니다._
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-battlecruiser@scbw.png" width="50" height="50">   Goliath
+### <img src="{{site.baseurl}}/images/btn-unit-terran-battlecruiser@scbw.png" width="50" height="50">   배틀크루저
 
 * 배틀크루저의 체력이 500에서 550으로 증가하였습니다.
 * 배틀크루저의 이동 속도가 1.406에서 1.875로 증가하였습니다.
+* 배틀크루저 야마토 포의 에너지 비용이 150에서 125로 감소하였습니다.
 
 _배틀크루저는 스타1에서 성능이 안 좋기로 악명 높았습니다. 이에 큰 틀을 유지하는 선에서 성능을 올려주기 위하여 약간의 상향 조정을 가하였습니다._
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-sieged@scbw.png" width="50" height="50">   Goliath
+### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-sieged@scbw.png" width="50" height="50">   시즈 탱크
 
 * 시즈 모드의 연구 시간이 75에서 60으로 감소하였습니다.
 * 시즈 모드의 연구 비용이 150/150에서 100/150으로 감소하였습니다.
@@ -61,16 +69,17 @@ _배틀크루저는 스타1에서 성능이 안 좋기로 악명 높았습니다
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon.png" width="50" height="50">   Dark Archon
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon.png" width="50" height="50">   다크 아콘
 
-* 더 이상 다크 아칸의 메일스트롬이 아군 유닛에 적중하지 않습니다.* 다크 아칸 메일스트롬의 에너지 비용이 100에서 75로 감소하였습니다.
+* 더 이상 다크 아칸의 메일스트롬이 아군 유닛에 적중하지 않습니다.
+* 다크 아칸 메일스트롬의 에너지 비용이 100에서 75로 감소하였습니다.
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-dragoon@scbw.png" width="50" height="50">   Dragoon
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-dragoon@scbw.png" width="50" height="50">   드라군
 
 * 드라군의 특이점 장전 업그레이드로 인한 사거리 증가량이 1에서 2로 증가하였습니다.
 * 드라군 특이점 장전의 비용이 150/150에서 100/150으로 감소하였습니다.
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-observer.png" width="50" height="50">   Observatory
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-observer.png" width="50" height="50">   옵저버
 
 * 옵저버토리의 생산 시간이 25에서 20으로 감소하였습니다.
 * 옵저버의 생산 시간이 25에서 20으로 감소하였습니다.
@@ -80,24 +89,24 @@ _배틀크루저는 스타1에서 성능이 안 좋기로 악명 높았습니다
 * 캐리어의 인터셉터 출격 지연 시간이 0.5에서 0.37로 감소하였습니다.
 * 아비터 스테이시스 필드의 에너지 비용이 100에서 75로 감소하였습니다.
 * 커세어 디스럽션 웹의 에너지 비용이 125에서 100으로 감소하였습니다.
-* 하이 템플러 할루시네이션의 에녀지 비용이 100에서 75로 감소하였습니다.
+* 하이 템플러 할루시네이션의 에너지 비용이 100에서 75로 감소하였습니다.
 
 
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-overlord.png" width="50" height="50">   Overlord
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-overlord.png" width="50" height="50">   오버로드
 
 * 오버로드의 이동 속도가 0.469에서 0.9414로 증가하였습니다.
 * 오버로드 배주머니 업그레이드(이동 속도 증가)의 비용이 200/200에서 150/150으로 감소하였습니다.
 
-_저희는 피드백에 따라 오버로드 속도를 수정하였고, 이로써 스타2 저그와 같은 속도로 초반 오버로드 정찰이 가능하게 되었습니다._
+_저희는 피드백에 따라 오버로드 속도를 수정하였고, 이로써 스타2 저그와 비슷한 속도로 초반 오버로드 정찰이 가능하게 되었습니다._
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-larvaex3.png" width="50" height="50">   Larva
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-larvaex3.png" width="50" height="50">   라바
 
 * 라바 생성 지연 시간이 15에서 12로 감소하였습니다.
 
-_스타1 저그의 생산성을 향상시켰습니다. 적절한 균형점에 도달하기 위한 추가 수정 여부는 앞으로의 경기 양상을 주시하며 차차 결정하도록 하겠습니다._
+_스타1 저그의 생산성을 향상시켰습니다. 적절한 균형점에 도달하기 위한 추가 수정 여부는 앞으로의 경기 양상을 주시하며 결정하도록 하겠습니다._
 
 * 이제 저그 유닛이 크립 위에서 이동 속도가 1.2배 증가합니다.
 
