@@ -27,7 +27,7 @@ _이 변화는 스타1 저그 플레이어가 초반 사신 찌르기와 같은 
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
-| ![Flowers](/images/EvoExtension0_24.png) | I am text to the right |
+### <img src="{{site.baseurl}}/images/btn-unit-terran-firebat@scbw.png" width="50" height="50">   파이어뱃 / 마린
 
 * 파이어뱃의 체력이 50에서 55로 증가하였습니다.
 * 마린의 체력이 40에서 45로 증가하였습니다.
