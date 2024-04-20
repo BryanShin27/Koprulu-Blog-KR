@@ -5,7 +5,6 @@ description: 스타 이보 컴플리트의 첫 밸런스 업데이트 및 한국
 date:   2024-04-12 15:01:35 +0000
 image:  '/images/EvoExtension0_24.png'
 tags:   [extension, update]
-featured: true
 ---
 
 ## 이보 컴플리트 v. 0.24
