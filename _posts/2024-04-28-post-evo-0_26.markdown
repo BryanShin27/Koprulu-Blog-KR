@@ -1,155 +1,161 @@
 ---
 layout: post
-title:  SC Evo Complete Extension update 0.25 hotfix & 0.26 patch notes
-description: Minor balance adjustments across all three races to improve their performance vs StarCraft 2 Races
+title:  SC Evo Complete 모드 업데이트 v. 0.26 (핫픽스 포함)
+description: 스타2를 상대로 더 나은 대결을 펼치기 위한 밸런스 수정
 date:   2024-04-28 15:01:35 +0000
 image:  '/images/EvoExtension0_26.png'
 tags:   [Extension, Update]
 featured: true
 ---
 
-## Evo Complete Extension Release 0.26
+## 이보 컴플리트 v. 0.26
 
 
 ***
 
 ![]({{site.baseurl}}/images/Divider_Extension.png)
 
-* Added Hover attribute to Reaper, Sentry and Disruptor
+* 스타1 하이 템플러, 스타2 고위 기사, 사신, 파수기 및 분열기에 부유 속성을 부여하였습니다.
+
 
 ***
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
-* Increased Marine range research time 60 -> 94
-* Increased Missile Turret explosive damage 20 -> 25
-* Increased Ghost Lockdown range 9 -> 10
-* Increased Goliath life 125 -> 150
-_ALlows the Goliath to survive Liberator & Disruptor attacks_
+* 마린의 사거리 증가 연구 시간이 60에서 94로 증가하였습니다.
+* 미사일 터렛의 피해량이 20에서 25로 증가하였습니다.(폭발형 공격타입 유지)
+* 고스트의 락다운 사거리가 9에서 10으로 증가하였습니다.
+* 골리앗의 체력이 125에서 150으로 증가하였습니다.
+_이제 골리앗이 해방선과 분열기의 공격으로부터 조금 더 잘 버티게 됩니다_
 
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
-### Zealot
-* Increased Zealot Leg Enhancments speed multipler 1.5 -> 1.6
-* Zealot Changeling now has same shield amount
+### 질럿
+* 질럿 다리 강화의 이동 속도 배수가 1.5에서 1.6으로 증가하였습니다.
+* 질럿으로 변한 변형체가 현 질럿과 다른 실드량을 보유하던 오류를 수정하였습니다.
 
-* Photon Cannon weapon speed and life matched to sc2 photon cannon
+* 스타1 포톤 캐논의 공격 속도와 체력이 스타2 광자포와 동일하도록 상향되었습니다.
 
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
-### Lurker
-* Burrow time reduced from 2.5 -> 2.0 (slower than SC2 lurker with Adaptive Talons)
-* Increased weapon range from 7 to 8
-* Lurker +3 damage to light (Allows lurkers to kill sc1 marines in two attacks again)
+### 러커
+* 잠복 시간이 2.5에서 2.0으로 감소하였습니다. (적응형 발톱 진화를 마친 스타2 가시지옥보다 느림)
+* 러커의 사거리가 7에서 8로 증가하였습니다.
+* 러커가 경장갑을 대상으로 +3의 추가 피해를 줍니다.(체력이 상향된 스타1 마린을 이전처럼 두 방에 잡을 수 있습니다)
 
-### Queen
-* Temporarily disabled sc2 Command Centers being able to be targeted by Queens Infest ability
-* Spawn Broodling can now target massive targets
-* Spawn Broodling can now only target non-robotic mechanical or biological targets
-* Spawn Broodling now Deals 300 + 100 vs biological instead of instantly killing the target
-* Spawn Broodling will fail if target goes into stasis
-* Disruptor, Colossus, Sentry, Reaver, Probes & Widow Mine now have robotic attribute
-* Increase Spawn Broodling launch volume
-_This damage change keeps the Starcraft 1 interactions intact, (with the exception of defensive matrix) while targets like Thor and SC2 Ultralisk now require two casts to be killed by Queens_
+### 퀸
+* 퀸이 스타2 사령부를 감염시킬 수 있는 상호작용을 일시적으로 비활성화하였습니다. (감염된 스타2 사령부의 데이터 작업이 아직 완료되지 않았습니다.)
+* 이제 브루들링 소환은 생체 또는 로봇 속성이 아닌 기계 속성 유닛만을 대상으로 할 수 있습니다.
+* 이제 스타1의 리버와 프로브, 스타2의 파수기, 분열기, 거신 및 땅거미 지뢰에 로봇 속성이 부여되었습니다.
+_본래 스타2 섬멸전에는 스타1처럼 로봇 속성(ex. 리버)과 기계 속성(ex. 탱크)을 구분 짓는 속성이 별도로 존재하지 않습니다. 그러나 고증에 대한 플레이어 여러분들의 끊임없는 요구는 밸런스 조정의 필요성과 맞물려, 저희 개발팀이 스타2 편집기 상에 존재하는 로봇 속성 데이터를 활용하여 양 진영에서 기계와 로봇을 엄밀히 구분하도록 하였습니다._
 
-* Most fire type weapons now deal damage in Dark Swarm, this now includes Colossus and Hellion
+* 더 이상 거대 속성이 브루들링 소환에 면역이 아닙니다.
+* 이제 브루들링 소환이 즉사 대신 300 (생체 대상 +100)의 피해를 줍니다.
+_이 피해량은 기존의 즉사 상호작용을 보존하면서 스타2의 토르나 울트라리스크가 한 방을 버티도록 합니다._
 
-### Spore Colony
-* Spore Colony damage increased 15 -> 25
-* Spore Colony weapon range increased 7 -> 8
-_Weapon has been adjusted based on it's cost, spore colony total cost 175 minerals_
+* 이제 브루들링 소환의 대상이 정지장에 갇힐 경우, 기술이 실패합니다.
+* 브루들링 소환의 기술 음량이 증가하였습니다.
 
-* Fixed Spore Colony using incorrect morph time 19 -> to 15
-* Fixed Sunken Colony using incorrect morph time 19 -> to 35
-_Morph times match SC2 drone equivalents when creep colony build time is included_
+* 이제 대부분의 화염류 기술이 다크 스웜 안에서 유효타를 입힙니다(거신 및 화염차).
+
+### 스포어 콜로니
+* 스포어 콜로니의 피해량이 15에서 25로 증가하였습니다.
+* 스포어 콜로니의 사거리가 7에서 8로 증가하였습니다.
+
+_스포어 콜로니가 비싼 값어치를 하도록 수정하였습니다._
+
+* 스포어 콜로니가 올바르지 않은 생성 시간을 사용하던 문제를 수정하였습니다. (19 -> 15)
+* 성큰 콜로니가 올바르지 않은 생성 시간을 사용하던 문제를 수정하였습니다. (19 -> 35)
+_두 건물의 생성 시간은 크립 콜로니의 생성 시간을 포함하면 스타2의 가시 촉수, 포자 촉수와 동일하게 설정되었습니다._
 
 ***
 
 
 ![]({{site.baseurl}}/images/Divider_CoreMods.png)
 
-### Carrier
-* Implemented SC1 Carrier inteceptor behaviours quirks (Thanks to m0ebiuz!)
-* Interceptors can only enter Carrier while it is stationary
-* Interceptors will now retreat to the carrier if they are at 0 shields
-* Interceptors will now repair their shields and life when inside the carrier
-* Interceptors can only exit the carrier when life is above 20 
-_The shield regen rate is comparable to shield battery instead of instant heal. Special checks have been done to allow them to exit with plague_
-* The area which Interceptors circle around target has been increased
-* Interceptor weapon speed reduced 1.554 -> 1.875 
-* Interceptors launch delay from Carrier increased from 0.5 -> 0.625
-* Fixed SC1 Interceptor weapon incorrectly displaying 2 attacks in it's weapon
-* Raven Scrambler Missile now disables Carrier weapon correctly
+### 인터셉터
+* 스타1 인터셉터의 변칙적인 움직임을 도입하였습니다 (도움 주신 분: m0ebiuz)
+* 이제 인터셉터는 캐리어가 정지해 있을때만 캐리어로 돌아갑니다.
+* 이제 인터셉터는 실드가 0이 되면 후퇴하여 캐리어로 돌아갑니다.
+* 이제 인터셉터는 캐리어 내부에서 실드와 체력을 회복합니다.
+* 이제 인터셉터는 체력이 20 이상일 때만 캐리어 밖으로 사출됩니다.
+_인터셉터의 실드 재생량은 실드 배터리의 회복량과 유사하게 갑니다. 인터셉터가 플레이그의 영향을 받고 있을 때도 제대로 출격할 수 있도록 조치하였습니다._
+* 인터셉터가 공격 대상 근처를 선회하는 반경이 증가하였습니다.
+* 인터셉터의 공격 주기가 1.554에서 1.875로 증가하였습니다.(수치가 클수록 느립니다)
+* 인터셉터가 캐리어에서 사출될 때의 지연 시간이 0.5에서 0.625로 증가하였습니다.
+* 인터셉터가 피해를 2회 준다는 표기 오류를 수정하였습니다.
+* 이제 밤까마귀의 방해 매트릭스가 제대로 캐리어를 무력화합니다.
 
-### Ghost
-* New Ghost model for SC1 ghost
-* Hold Fire and Weapons Free buttons can now be mapped to same hotkey
+### 고스트
+* 스타1 고스트의 외형이 업데이트 되었습니다.
+* 이제 공격 중지와 무기 사용 버튼이 같은 단축키로 지정될 수 있습니다.
 
-### Valkyrie
-* Doubled the range Valkyries keep firing at their target before chasing
-
-### Vulture & Spider Mine
-* Spider Mine now visually tilts on uneven ground
-* Increased volume of Spider Mine Burrow and Chase sounds
-* Increased Spider Mine model visual scale by 15%
-* Spider Mine now has correct initial burrow delay when placed
-* Spider Mine can now target undetected burrowed targets same as cloaked units
-* Spider Mine can't target enemy spider mines (they still deal damage to own and other spider mines if exploding near them)
-* Reduced the time spider mine re-burrows after unburrowing
-* Spider Mine placement range reduced from 0.6 -> 0.5
-* Spider Mine now takes priority over other units when targeting units in the same location
-* Spider Mine now have same attack target priority as other units
-* Vulture now has short delay before placing mines, plays an "animation" after it has been placed. 
-_This is mimicing the vulture behavior in sc1 and should prevent usage of the spider mine in fights without penalty_
-@Kat add gif of the new placement "animation" & maybe the burrowed roach targeting?
-
-### Irradiate
-* Science Vessel can't target itself with irradiate anymore
-* AI players will now try to avoid irradiated targets
-* Armored Eggs and Larva are now immune to irradiate
-* Irradiate now transfers from larva eggs to their produced unit
-* Increased the visual size to match it's search area more closely
-* Irradiate search area can't target burrowed units anymore
-* If the irradiate target is burrowed, it only hits the targeted unit
-* Irradiate visual will now adjust when target is burrowed
-@Kat add gif here of the new irradiate burrowed visual
-
-### Ensnare
-* Ensnare now has new enhanced visual
-* Ensnare targets accelerate -25% slower
-* Ensnare visual now matches it's radius
-* Ensnare can no longer target burrowed targets
-@Kat add gif here of the new ensnare visual
-
-* Fixed Goliath air weapon using incorrect weapon speed (1.5 -> 1.375)
-* Arbiter Stasis field can now target Disruptor orbs again
-* Fixed issue where Recall required the Arbiter to be on pathable ground when targeting ground units
-* SC1 Stargate now plays the sc2 stargate 'What' Sound instead of no sound
-* Added scan attack move for flying buildings
-* Fixed Broodling using wrong fire death model
-* Added new UI asset for sc1 terran defeat screen
-* Updated Observatory texture
-* Fixed Lurker attack sounds being able to be heard in fog of war
-* Wraith and Scout air weapons now takes priority when attacking targets like Colossus
+### 발키리
+* 발키리가 대상에게 공격을 지속하는 범위가 두 배로 늘었습니다.
+_이제 발키리의 공격 대상이 맞으면서 사거리 밖으로 도망가더라도 발키리가 조금 더 오래 공격을 날립니다._
 
 
-### Observer Mod
-* Fixed Observer mod applying skins to sc2 races
-* Fixed sc1 races missing icons for some Observer UI's 
+### 스파이더 마인
+* 이제 스파이더 마인이 균일하지 않은 지형에서 시각적으로 기울어져 있습니다.
+* 스파이더 마인의 매설 및 추적 음량이 증가하였습니다.
+* 스파이더 마인의 외형이 15% 증가하였습니다.
+* 이제 스파이더 마인이 매설될 때 올바른 지연 시간을 지닙니다.
+* 이제 스파이더 마인이 이동 중인 잠복 유닛을 감지하여 공격할 수 있습니다.
+* 이제 스파이더 마인이 적 스파이더 마인을 대상으로 할 수 없습니다. (폭발로 인한 방사 피해는 유효하게 입힙니다.)
+* 스파이더 마인이 일어났다가 다시 잠복하는 시간이 감소하였습니다.
+* 이제 스파이더 마인이 벌처의 몸체로부터 조금 더 가까이에 설치됩니다. (배치 거리 0.6 -> 0.5)
+* 스파이더 마인의 공격 우선도가 0으로 설정되었던 오류를 수정하였습니다.
+* 이제 벌처가 스파이더 마인 매설 직전에 짧은 지연 시간을 지니며, 매설 후에 특정 "행동"을 보입니다.
+_이는 스타1에서 벌처가 스파이더 마인을 설치할 때의 행동을 모방하는 것이며, 이로써 전투와 동시에 마인을 매설하는 행위에 대한 불이익을 재현합니다._
 
-### Crossover
-* Fixed erronous research times for ghost lockdown
-* Fixed wrong vespene cost for Observer Sight
-* Resonating Matrix no longer increases max queue size
-* Corrected spider mine damage
-* SC1 Stimpack duration reduced by 30%
-* Fixed stinger using incorrect static portrait
+
+### 이래디에이트
+* 이제 사이언스 베슬이 자기 자신을 대상으로 이래디에이트를 시전할 수 없습니다.
+* 이제 인공지능이 이래디에이트의 영향을 받는 대상을 피합니다.
+* 이제 스타1의 라바, 저그 에그와 럴커 에그, 스타2의 애벌레와 저그 고치 및 궤멸충 고치가 이래디에이트에 걸려도 피해를 입지 않습니다. (스타1의 이래디에이트 조건 재현)
+* 이제 이래디에이트가 스타1 저그 에그 및 스타2 저그 고치에서 태어난 유닛에게 옮겨갑니다.
+* 이래디에이트의 시각 효과 크기가 그 피해 범위를 더 정확하게 표시하도록 증가하였습니다.
+* 더 이상 이래디에이트가 근처 잠복한 유닛에 피해를 주지 않습니다.
+* 이제 이래디에이트의 대상이 잠복할 경우, 해당 유닛만 피해를 입습니다.
+* 이제 잠복한 유닛에 걸린 이래디에이트가 수정된 시각 효과를 지닙니다.
+
+
+### 인스네어
+* 인스네어의 시각 효과가 향상되었습니다.
+* 이제 인스네어의 대상의 가속도가 25% 느려집니다.
+* 인스네어의 시각 효과가 그 반경과 일치합니다.
+* 더 이상 인스네어가 잠복한 유닛을 대상으로 할 수 없습니다.targets
+
+
+* 골리앗의 대공 무기가 바르지 않은 공격 주기를 사용하던 문제를 수정하였습니다. (1.5 -> 1.375)
+* 아비터의 스테이시스 필드가 다시금 분열기의 정화 폭발을 대상으로 삼을 수 있습니다.
+* 아비터가 유닛을 소환할 수 없는 지점에 있어도 리콜을 시전할 수 있습니다.
+* 스타1 스타게이트에 부재하던 건물 소리를 스타2 우주 관문의 소리로 대체하였습니다.
+* 이제 이륙 중인 건물도 공격 지점을 탐색할 수 있습니다.
+* 브루들링이 불타 죽을 때 잘못된 모델을 사용하는 문제를 수정하였습니다.
+* 스타1 테란의 패배 화면에 새로운 UI 자산을 추가하였습니다.
+* 옵저버토리의 텍스쳐를 수정하였습니다.
+* 전장의 안개 속 러커의 공격 소리가 출력되던 문제를 수정하였습니다.
+* 이제 레이스와 스카웃의 대공 무기가 거신을 상대할 때 우선도를 지닙니다.
+
+
+### 옵저버 모드
+* 옵저버 모드가 스타2 종족에 스킨을 강제로 덧씌우던 문제를 수정하였습니다.
+* 일부 옵저버 UI에서 스타1의 종족 아이콘이 표기되지 않던 문제를 수정하였습니다.
+
+### 크로스오버 모드
+* 고스트 락다운의 잘못된 연구 시간을 수정하였습니다.
+* 옵저버 시야 업그레이드의 잘못된 베스핀 가격을 수정하였습니다.
+* 더 이상 공명 매트릭스가 최대 대기열을 증가시키지 않습니다.
+* 스파이더 마인의 피해량이 바르게 수정되었습니다.
+* 스타1 스팀팩의 지속 시간이 30% 감소하였습니다.
+* 스팅어가 바르지 않은 정지 초상화를 사용하던 문제를 수정하였습니다.
 
 
 
 ***
-Credits: _m0ebiuz for Sc1 Carrier behaviour quirks data_
+도움 주신 분 _m0ebiuz 스타1 캐리어의 변칙적 행동 데이터 제공_
 
-<!-- _Featured Image credit by: TOP_ -->
+<!-- _모드 사진 제공: 맹덕엄마님_ -->
