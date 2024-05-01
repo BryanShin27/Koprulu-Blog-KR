@@ -45,7 +45,7 @@ _골리앗의 상향은 골리앗이 해방선을 상대로 최소 두 대 버�
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot@scbw.png" width="50" height="50"> 질럿
 
 * 질럿 다리 강화의 이동 속도 배수가 1.5에서 1.6으로 증가하였습니다.
-* 질럿으로 변한 변형체가 현재 질럿과 다른 실드량을 보유하던 오류를 수정하였습니다.
+* 질럿으로 변한 변신수가 현재 질럿과 다른 실드량을 보유하던 오류를 수정하였습니다.
 
 * 스타1 포톤 캐논의 공격 속도와 체력이 스타2 광자포와 동일하도록 상향되었습니다.
 * 사이버네틱스 코어의 가격이 200에서 150으로 감소하였습니다.
@@ -89,7 +89,7 @@ _이 피해량은 기존의 즉사 상호작용을 보존하면서 스타2의 �
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-defiler@scbw.png" width="50" height="50"> 디파일러
 
-* 디파일러 Dark Swarm energy cost 75 -> 100
+* 디파일러 다크 스웜의 에너지 비용이 75에서 100으로 증가하였습니다.
 * 이제 대부분의 화염류 기술이 다크 스웜 안에서 유효타를 입힙니다. 여기에는 화염차와 거신 등이 포함됩니다.
 
 ### <img src="{{site.baseurl}}/images/btn-building-zerg-sporecolony@scbw.png" width="50" height="50"> 스포어 콜로니
