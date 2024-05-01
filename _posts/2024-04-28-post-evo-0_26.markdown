@@ -152,7 +152,7 @@ _인터셉터의 실드 재생량은 실드 배터리의 회복량과 유사하�
 _이제 발키리의 공격 대상이 맞으면서 사거리 밖으로 도망가더라도 발키리가 조금 더 오래 공격을 날립니다._
 
 ![]({{site.baseurl}}/gifs/2024-30-04-valkyrie.gif)
-*Valkyrie Attacks are now more similar to StarCraft 1*
+*발키리의 공격이 이제 스타1과 조금 더 유사합니다.*
 
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> 스파이더 마인
