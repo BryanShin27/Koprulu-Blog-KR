@@ -2,7 +2,7 @@
 layout: post
 title:  SC Evo Complete 모드 업데이트 v. 0.26 (핫픽스 포함)
 description: 스타2를 상대로 더 나은 대결을 펼치기 위한 밸런스 수정
-date:   2024-04-28 15:01:35 +0000
+date:   2024-05-01 15:01:35 +0000
 image:  '/images/EvoExtension0_26.png'
 tags:   [Extension, Update]
 featured: true
