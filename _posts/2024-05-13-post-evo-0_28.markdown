@@ -1,16 +1,20 @@
 ---
 layout: post
-title:  SC Evo Complete 모드 업데이트 v. 0.28
-description: ADD DESCRIPTION
-date:   2024-05-12 15:01:35 +0000
-image:  '/images/EvoExtension0_28.png'
+title:  SC Evo Complete 모드 업데이트 v. 1.0
+description: Several balance changes and new Models!
+date:   2024-05-13 00:01:35 +0000
+image:  '/images/EvoExtension1_0.png'
 tags:   [Extension, Update]
 featured: true
 ---
 
 ## 이보 컴플리트 v. 0.28
 
-INTRO SPIEL
+Hey everyone, we've been working hard for a while along with our advisors to create this update which aims at closing the gap in balance between BW and SC2 races, this update most notable contains buffs to improve the game tempo of BW races as well as changes to Explosive and Concussive weapons to improve their performance, particularly in BW vs SC2 Scenarios.
+
+Along with this update we've also added several new models that the team has been working hard to get out the door. A series of minor updates to the core of the mods will be deployed to continue to make adjustments to the art as well as add new models eventually.
+
+Finally from the Dev we'd like to wish the best to all the players participating in the Supermatch and GL HF, we'll be eagerly awaiting the event's date. Without further ado here are the patch notes.
 
 ***
 
@@ -73,7 +77,7 @@ INTRO SPIEL
 * 사이오닉 스톰의 연구 시간이 110에서 100으로 감소하였습니다.
 * 스타1과 스타2 하이 템플러의 부유 속성을 삭제하였습니다.
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-shuttle@scbw.png" width="50" height="50"> 셔틀
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-ShuttleSCBW.png" width="50" height="50"> 셔틀
 
 * 기본 가속력이 1.0625에서 1.2로 증가하였습니다.
 * 중력 구동기 연구가 가속력을 추가로 0.75 증가시킵니다.
@@ -93,13 +97,13 @@ INTRO SPIEL
 * 캐리어의 실드량이 150에서 175로 증가하였습니다.
 * 캐리어가 이동할 때에 인터셉터가 캐리어로 돌아가던 오류를 수정하였습니다.
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter@scbw.png" width="50" height="50"> 아비터
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter.png" width="50" height="50"> 아비터
 
 * 아비터의 리콜 대상 반경이 20% 증가하였습니다.
 * 아비터의 생산 시간이 115에서 105로 감소하였습니다.
 
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-observer@scbw.png" width="50" height="50"> 옵저버와 옵저버토리
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-observer.png" width="50" height="50"> 옵저버와 옵저버토리
 
 * 옵저버의 시야 반경이 10에서 11로 증가하였습니다.
 * 옵저버의 이동 속도가 1.875에서 2.0156으로 증가하였습니다.
@@ -113,7 +117,7 @@ INTRO SPIEL
 * 라바 생산 주기가 13에서 14로 증가하였습니다.
 * 해처리에서 버로우 연구를 할 수 없던 오류를 수정하였습니다. __(코어)__
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-zergling@scbw.png" width="50" height="50"> 저글링
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-ZerglingSCBW.png" width="50" height="50"> 저글링
 
 * 공격 주기가 0.5에서 0.6으로 증가하였습니다.
 * 아드레날린 분비선 연구의 피해량 배율이 0.33에서 0.45로 증가하였습니다.
@@ -125,7 +129,7 @@ INTRO SPIEL
 * 가시 홈 연구의 연구 시간이 100에서 170으로 증가하였습니다.
 * 가시 홈 연구의 연구 비용이 100/100에서 150/150으로 증가하였습니다.
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-ultralisk@scbw.png" width="50" height="50"> 울트라리스크
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-ultralisk-remastered.png" width="50" height="50"> 울트라리스크
 
 * 유닛의 크기 반경이 0.875에서 0.75로 감소하였습니다.
 * 피해 지점(공격 후딜레이)이 0.33에서 0.25로 감소하였습니다. __(코어)__

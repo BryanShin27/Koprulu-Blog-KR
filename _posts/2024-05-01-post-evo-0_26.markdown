@@ -5,7 +5,6 @@ description: 스타2를 상대로 더 나은 대결을 펼치기 위한 밸런�
 date:   2024-04-30 15:01:35 +0000
 image:  '/images/EvoExtension0_26.png'
 tags:   [Extension, Update]
-featured: true
 ---
 
 ## 이보 컴플리트 v. 0.26
