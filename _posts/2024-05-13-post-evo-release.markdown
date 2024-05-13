@@ -1,20 +1,20 @@
 ---
 layout: post
 title:  SC Evo Complete 모드 업데이트 v. 1.0
-description: Several balance changes and new Models!
+description: 일부 밸런스 수정과 신규 모델
 date:   2024-05-13 00:01:35 +0000
 image:  '/images/EvoExtension1_0.png'
 tags:   [Extension, Update]
 featured: true
 ---
 
-## 이보 컴플리트 v. 0.28
+## 이보 컴플리트 v. 1.0 정식 출시
 
-Hey everyone, we've been working hard for a while along with our advisors to create this update which aims at closing the gap in balance between BW and SC2 races, this update most notable contains buffs to improve the game tempo of BW races as well as changes to Explosive and Concussive weapons to improve their performance, particularly in BW vs SC2 Scenarios.
+안녕하세요. 저희는 저희 조언자들과 함께 이 업데이트를 위하여 그동안 부단히 노력하였습니다. 이 업데이트는 스타1과 스타2 종족 사이의 밸런스 격차를 좁히고자 하며, 주목할 만한 변경점으로 스타1 종족의 템포 향상 및 폭발형, 진동형 피해량의 변화가 있습니다.
 
-Along with this update we've also added several new models that the team has been working hard to get out the door. A series of minor updates to the core of the mods will be deployed to continue to make adjustments to the art as well as add new models eventually.
+이 업데이트와 함께, 저희는 내부 아트 팀이 출시를 위하여 열심히 힘 써준 몇몇 새로운 모델을 소개합니다. 이 새로운 모델을 위한 소소한 업데이트가 당분간 이어질 예정입니다.
 
-Finally from the Dev we'd like to wish the best to all the players participating in the Supermatch and GL HF, we'll be eagerly awaiting the event's date. Without further ado here are the patch notes.
+마지막으로, 저희 개발팀은 슈퍼매치에 참여하는 모든 선수 분들이 최선의 결과를 거두실 수 있길 기원합니다. GL HF, 저희 또한 시합이 이루어질 날을 손꼽아 기다리고 있겠습니다.
 
 ***
 
@@ -27,6 +27,7 @@ Finally from the Dev we'd like to wish the best to all the players participating
 
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
+
 * 서플라이 디포의 바르지 않은 체력 400을 500으로 수정하였습니다.
 * 시즈 탱크의 생산 시간이 45에서 40으로 감소하였습니다.
 * 메딕 리스토레이션의 범위가 2에서 4로 증가하였습니다.
@@ -37,12 +38,15 @@ Finally from the Dev we'd like to wish the best to all the players participating
 
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-sciencevessel.png" width="50" height="50"> 사이언스 베슬
-* 이래디에이트의 시각 효과를 갱신하였습니다. __(코어)__
-* 이래디에이트가 추가로 10의 피해량을 더 입히던 오류를 수정하였습니다. __(코어)__
-* 주기적 피해량이 7에서 3.332로 감소하였으며, 이로써 누적 피해량이 248에서 249.9로 바르게 수정되었습니다. __(코어)__
+
+* 이래디에이트의 지속 시간이 34.5에서 42로 증가하였습니다.
+* 이래디에이트의 피해 주기가 1.0에서 0.5로 감소하였습니다.
+* 이래디에이트의 주기당 피해량이 7에서 3.332로 감소하였으며, 누적 피해량이 248에서 289.9로 증가하였습니다.
 * 이래디에이트가 은폐된 유닛을 탐지하지 못하는 오류를 수정하였습니다. __(코어)__
+* 디펜시브 매트릭스의 실드량이 250에서 300으로 증가하였습니다.
 * EMP 쇼크웨이브 투사체의 속도가 스타1과 유사하도록 감소하였습니다. __(코어)__
 
+***
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
@@ -57,8 +61,7 @@ Finally from the Dev we'd like to wish the best to all the players participating
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot@scbw.png" width="50" height="50"> 질럿
 
-* 모델과 애니메이션을 갱신하였습니다. __(Core)__
-* 공격 모션이 스타1과 유사하도록 갱신하였습니다. __(Core)__
+* 공격 모션이 스타1과 유사하도록 갱신하였습니다. __(코어)__
 * 다리 강화가 이제 10%의 추가 공격 속도를 부여합니다.
 * 다리 강화 연구 시간이 90에서 100으로 증가하였습니다.
 
@@ -111,6 +114,7 @@ Finally from the Dev we'd like to wish the best to all the players participating
 * 옵저버토리의 소환 비용이 100/50에서 50/50으로 감소하였습니다.
 * 옵저버토리의 체력이 250/250에서 200/200으로 감소하였습니다.
 
+***
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
@@ -150,11 +154,18 @@ Finally from the Dev we'd like to wish the best to all the players participating
 
 ### 시각 효과 갱신
 
+* 신규 질럿 모델
+* 신규 뮤탈리스크 모델
+* 신규 오버로드 모델
+* 신규 성큰 콜로니 모델
+* 신규 스포어 콜로니 모델
+* 신규 가디언 모델
+* 이래디에이트 시각효과 갱신
+* 플레이그 텍스처 갱신
 
 ### 버그 픽스 및 변경점
 
-* 실드 배터리의 실드 재충전 능력이 스타1 때와 동일하도록 갱신하였습니다.
-* 다양한 소리 음량을 갱신하였고 누락된 스타1 소리를 추가하였습니다.
+* 다양한 소리 음량을 조정하였고 누락된 스타1 소리를 추가하였습니다.
 * 고스트의 뉴클리어 조준점이 상대에게 나타나지 않는 문제점을 수정하였습니다.
 * 발키리 미사일 착탄 효과가 착탄 지점에 정확히 드러나지 않던 문제를 수정하였습니다. (도움 주신 분: Bommes)
 * 대상이 시야 밖을 벗어나면 야마토 건의 시전이 취소되는 문제를 수정하였습니다.
@@ -168,19 +179,8 @@ Finally from the Dev we'd like to wish the best to all the players participating
 * 간단 명령 창 사용 시에 일부 중요한 기능이 숨겨지던 문제를 수정하였습니다.
 * '빠른무한' 맵에서 스타1 일꾼이 제대로 채취하지 못하던 문제를 수정하였습니다.
 
-
-***
-
-### 옵저버 모드
-
-
-***
-
-### 크로스오버 모드
-
-
 ***
 
 도움 주신 분: 
 
-_맹덕엄마님, 모드 사진 제공_
+_Nyanpie님, 새로운 플레이그 텍스처 제공_
