@@ -62,8 +62,10 @@ featured: true
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot@scbw.png" width="50" height="50"> 질럿
 
 * 공격 모션이 스타1과 유사하도록 갱신하였습니다. __(코어)__
-* 다리 강화가 이제 10%의 추가 공격 속도를 부여합니다.
+* 다리 강화가 이제 10%의 추가 공격 속도를 부여합니다. 
 * 다리 강화 연구 시간이 90에서 100으로 증가하였습니다.
+
+_이로써 다리 강화 연구를 마친 질럿은 스타2 광전사와 동일한 공격 속도를 지니게 됩니다._
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-dragoon@scbw.png" width="50" height="50"> 드라군
 
@@ -118,13 +120,15 @@ featured: true
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
-* 라바 생산 주기가 13에서 14로 증가하였습니다.
+* 라바 생산 주기가 13에서 14로 증가하였습니다. (스타2 라바 주기: 15)
 * 해처리에서 버로우 연구를 할 수 없던 오류를 수정하였습니다. __(코어)__
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-ZerglingSCBW.png" width="50" height="50"> 저글링
 
 * 공격 주기가 0.5에서 0.6으로 증가하였습니다.
 * 아드레날린 분비선 연구의 피해량 배율이 0.33에서 0.45로 증가하였습니다.
+
+_아드레날린 연구 완료 시의 공격 속도를 유지하되, 기본 성능을 조금 약화하였습니다._
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> 히드라리스크
 
