@@ -34,10 +34,16 @@ image: '/images/bannerLarge.jpg'
 
 <iframe src="https://www.youtube.com/embed/fjIEpeKHqSk?si=OiLK8TTFEoipDjAX" frameborder="0" allowfullscreen></iframe>
 
+저희의 디스코드 채널에 개발팀과 대화하거나 버그 제보 및 개발 진행 소식 전달 창구를 마련해놓았으니 방문해주시기를 부탁드리겠습니다.
 
+<a href="https://discord.gg/fDvwdnkDeB"><img src="{{site.baseurl}}/images/DiscordIcon.png" width="40" height="40"></a> 
 
 저희 프로젝트의 개발 및 모델링 구매를 돕고자 하신다면 이쪽 페이팔 링크로 후원해주시면 됩니다.
 <a href="https://www.paypal.com/donate/?hosted_button_id=8FVGCCQ68F8A4"><img src="{{site.baseurl}}/images/blue.png" height="40"></a> 
+
+또는 새롭게 개설한 패트리온 링크로 후원해주시기를 부탁드리겠습니다.
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a> 
+
 _모든 후원금은 팀 내부 아트 담당자와 데이터 담당자 분들께 직접적으로 전달됩니다._
 
 _이 사이트는 아직 준비 단계이며 글 내용은 수정될 수 있습니다._
