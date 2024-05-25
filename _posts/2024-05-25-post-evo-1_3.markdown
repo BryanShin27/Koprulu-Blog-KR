@@ -1,32 +1,32 @@
 ---
 layout: post
-title:  SC Evo Complete Extension 1.3 patch notes
-description: Minor balance changes and lots of bugfixes
+title:  SC Evo Complete 모드 업데이트 v. 1.3
+description: 소규모 밸런스 패치 및 다수 버그 픽스
 date:   2024-05-24 00:21:35 +0600
 image:  '/images/EvoExtension1_0.png'
 tags:   [Extension, Update]
 featured: true
 ---
 
-## Evo Complete Extension Update 1.3
+## 이보 컴플리트 v. 1.3
 
-Hey everyone we got a minor update to fix some bugs, visual issues as well as add some features and update some visuals. Due to how close this update is to the upcoming tournament we decided to stall our balance update for a little while.
+안녕하세요. 저희는 버그 수정, 시각 효과 수정 등을 위한 소규모 업데이트를 마련하였습니다. 다가오는 토너먼트 일정이 얼마 남지 않았기 때문에, 저희는 밸런스 업데이트를 조금 더 유보하기로 결정하였습니다.
 
-As for next update we'll be deploying a PTR to test some radical changes.
+그 다음 업데이트로 저희는 몇몇 변화를 테스트하기 위한 PTR 개방을 추진 중입니다.
 
-We're holding off from adding new models in the meantime to 100% finish some of the new models added for 1.0 such as adding the full suite of death models, variations and animation adjustments across the board, in the meantime we have a little teaser of some of the upcoming content.
+저희가 1.0 때 추가한 새로운 모델링을 100%로 마무리하기 위하여 그 외의 새로운 모델링 추가를 미루고 있습니다. 마무리 작업이라 하면 사망 모션, 애니메이션 등의 여러 디테일 추가를 뜻합니다. 그 이후에 넣을 신규 모델링을 일부 미리 보여드리겠습니다.
 
 <div class="gallery-box">
   <div class="gallery">
     <img src="{{site.baseurl}}/images/teaser-queennest.png">
     <img src="{{site.baseurl}}/images/teaser-sciencevessel.png">
   </div>
-  <em>Upcoming Models for a future update</em>
+  <em>추후 업데이트에 반영할 신규 모델링</em>
 </div>
 
-We'll talk more about some upcoming content in a future blog post
+위의 내용에 관한 것은 추후 블로그 게시물에서 다루겠습니다.
 
-A reminder that you can help us fund development by donating, your donations go toward funding development as well as making new models at a much faster rate.
+저희의 개발 과정은 여러분의 후원을 통하여 촉진될 수 있다는 점을 알립니다. 여러분의 후원금은 더 나은 데이터 상호작용 추가 및 모델링 개발에 사용됩니다.
 
 <a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
 
@@ -34,76 +34,76 @@ A reminder that you can help us fund development by donating, your donations go 
 
 ![]({{site.baseurl}}/images/Divider_Extension.png)
 
-Multiplayer data is now separated from the extension mod so it can be easier to use by other modders. It can be found under "SCEvo_Multi" as an dependency mod
-This new dependency mod has no attributes added or Observer mod included and contains all SC: Evo Balance Data.
+이보 컴플리트 모드로부터 멀티플레이어 데이터를 따로 분리하였습니다. 이로써 다른 모드 개발자들이 저희 모드를 활용하기가 더 용이해졌습니다. 이 데이터는 "SCEvo_Multi"라는 명칭의 의존 관계로 찾을 수 있습니다.
+이 새 의존 관계는 SC: Evo Complete의 순수 밸런스 데이터만을 지니는 관계로 어떠한 속성도 없고 옵저버 모드 또한 가지고 있지 않습니다.
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
-- Updated Irradiate visuals
+- 이래디에이트의 시각 효과를 갱신하였습니다.
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> Vulture
 
-- Increased Vulture weapon period 1.6875 -> 1.875
-- Vulture now can shoot while moving keeping it's momentum between attacks if microed correctly (Thanks Bommes!)
+- 벌처의 공격 주기가 1.0 이전으로 롤백되었습니다. (1.6875 -> 1.875)
+- 이제 벌처가 적절한 컨트롤로 이동 중에 공격할 수 있습니다. (데이터 도움 주신 분: Bommes!)
 
 ***
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
-- Updated Corsair attack visuals & sounds to match sc1
-- Reduced High Templar model size by 20%
-- Reduced Scarab movement speed 9 -> 8 
-- Scarab explosion no longer flashbang's players
-- Mind Control can no longer be targeted on actively Neural Parasited units.
-- Fixed Mind Control not providing tech from the enemy player
-- Fixed Mind Control removing all behaviors from the targeted unit
+- 커세어의 공격 시각 효과 및 사운드가 스타1과 일치하도록 갱신하였습니다.
+- 하이 템플러의 외형이 20% 감소하였습니다.
+- 스캐럽의 이동 속도가 9에서 8로 감소하였습니다.
+- 더 이상 스캐럽의 폭발 효과가 플레이하는 여러분에게 눈뽕을 일으키지 않습니다.
+- 더 이상 신경 기생충 효과가 지속중인 유닛을 대상으로 마인드 컨트롤을 사용할 수 없습니다.
+- 마인드 컨트롤이 적으로부터 테크를 제공하지 못하던 문제를 수정하였습니다.
+- 마인드 컨트롤이 대상 유닛의 모든 행동(ex. 지게로봇 지속시간)을 제거하던 문제를 수정하였습니다.
 
 ***
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
-- Increased Ultralisk unit radius 0.75 -> 0.8125 (building interaction size is not effected)
-- Increased Ultralisk model size slightly
+- 울트라리스크의 유닛 반경이 0.75에서 0.8125로 증가하였습니다.
+- 울트라리스크의 외형이 살짝 증가하였습니다.
 
 ***
 
-### Bug fixes & changes
-- Fixed Machine Shop death model using wrong textures
-- Fixed Ghost Nuke not being able to be canceled 
-- Fixed Shield Battery warping missing a cancel button
-- Fixed Sunken Colony turret following killed targets with death motion
-- Fixed Scourges attack not causing unit under attack alert for the player
-- Fixed animation issues with Lair & Hive when morphing
-- Fixed Spore Colony missing target volumes
-- Fixed Sunken Colony missing Damage Refs
-- Added 'movement' sounds for Scout, Corsair & Valkyrie
-- Added new 'death' sounds for Zealot
-- Added Updated Hatchery 'death' model
+### 버그 픽스 및 변화
+- 머신 샵 사망 애니메이션이 잘못된 텍스처를 사용하던 문제를 수정하였습니다.
+- 스타1 고스트의 핵 공격 능력이 취소될 수 없던 문제를 수정하였습니다.
+- 실드 배터리 소환이 취소될 수 없던 문제를 수정하였습니다.
+- 성큰 콜로니가 대상의 사망 모션을 따라서 고개를 같이 돌리던 문제를 수정하였습니다.
+- 스커지의 자폭 공격이 상대에게 경보를 울리지 않던 문제를 수정하였습니다.
+- 레어 및 하이브가 변이할 때의 애니메이션 문제를 수정하였습니다.
+- 스포어 콜로니의 피격 지점값을 설정하였습니다.
+- 성큰 콜로니의 피해량 설명을 추가하였습니다.
+- 스카웃, 커세어 및 발키리의 '이동' 사운드를 추가하였습니다.
+- 질럿의 '사망' 사운드를 추가하였습니다.
+- 해처리의 '사망' 모델을 갱신하였습니다.
 
 ***
 
-Credits: 
+도움 주신 분: 
 
-_Bommes for vulture moving shot_
+_Bommes: 벌처 무빙샷을 구현_
 
 ***
 
-Below we're detailing the notes from earlier hotfixes that did not receive a blogpost
+아래에 블로그에 게시하지 않았던 소소한 핫픽스 내역을 기술합니다.
 
-## Evo Complete Extension Update 1.1
+## 이보 컴플리트 v. 1.1
 
-- Updated zhCN locale
-- Updated koKR locale
-- Fixed missing APM meters on other locales
+- 중국어 번역 데이터 추가
+- 한국어 번역 데이터 추가
+- APM미터기가 작동하지 않는 문제 해결
 
-## Evo Complete Extension Update 1.2
+## 이보 컴플리트 v. 1.2
 
-- Fixed an issue causing Mutalisk's bounce damage to increase
-- Corrected an erroneous Valkyrie Range value
-- Updated Ultralisk Animations/Textures
-- Updated Scarab's Visuals
-- Updated Corsair Model
-- Updated Carrier Model/Textures
-- Added Bunker Model
-- Adjusted Irradiate low quality visuals
-- Updated Zerg Town Building Death Models
+- 뮤탈리스크의 연쇄 공격이 비정상적으로 강력하던 문제를 해결하였습니다.
+- 발키리의 사거리 값 오류를 수정하였습니다.
+- 울트라리스크의 애니메이션/텍스처를 갱신하였습니다.
+- 스캐럽의 시각 효과를 갱신하였습니다.
+- 신규 커세어 모델링을 추가하였습니다.
+- 신규 캐리어 모델링/텍스처를 추가하였습니다.
+- 신규 벙커 모델링을 추가하였습니다.
+- 낮음 설정에서의 이래디에이트 시각 효과를 조정하였습니다.
+- 저그 본진(해처리, 레어, 하이브)의 사망 모델을 갱신하였습니다.
