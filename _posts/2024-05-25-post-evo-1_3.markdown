@@ -32,7 +32,7 @@ featured: true
 
 또는 여기 새롭게 만든 패트리온 링크에서 가능합니다.
 
-<a href="https://www.patreon.com/TeamKopruluSC2"></a> 
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a> 
 
 ***
 
@@ -97,6 +97,8 @@ featured: true
 도움 주신 분: 
 
 _Bommes: 벌처 무빙샷을 구현_
+
+_Rosebudio: 커버 사진 제공_
 
 ***
 
