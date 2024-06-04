@@ -1,24 +1,24 @@
 ---
 layout: post
-title:  SC Evo Complete Extension 1.4 patch notes
-description: Minor Bugfixes and New Models!
+title:  SC Evo Complete 모드 업데이트 v. 1.4
+description: 소규모 버그 픽스 및 신규 모델링
 date:   2024-06-01 00:21:35 +0600
 image:  '/images/EvoExtension1_4.png'
 tags:   [Extension, Update]
 featured: true
 ---
 
-## Evo Complete Extension Update 1.4
+## 이보 컴플리트 v. 1.4
 
-Hey everyone we got a minor update to fix some bugs, visual issues as well as add some features and update some visuals. This update does not contain the balance patch coming from the PTR as it has been delayed since it's still undergoing testing, in the meantime this update will fix a couple bugs and adjust some interactions between BroodWar and StarCraft 2 Spells
+안녕하세요. 저희는 일부 시각 효과 문제 및 버그를 수정하고 신규 기능 및 시각 효과를 추가하기 위한 소규모 업데이트를 마련하였습니다. **이번 업데이트에 PTR의 밸런스 수정사항은 반영되지 않았는데**, 해당 사항은 아직 테스트 단계를 거치고 있기 때문입니다.
 
-In this update we've added a couple of new models and effects funded by our Donors, special thanks to @CerberusSC2 for funding the Archon Model also thank you to our recent Donors for funding the new Defiler effects.
+또한 이번 업데이트에서 저희는 후원자 분들의 도움 덕에 완성할 수 있었던 몇몇 신규 모델링 및 효과를 도입합니다. 아콘 모델링 비용을 후원해 주신 @CerberusSC2님과, 신규 디파일러 시각 효과를 후원해 주신 신규 후원자분들께 감사 인사드립니다.
 
-*A reminder that you can help us fund development by donating, your donations go toward funding development as well as making new models at a much faster rate.*
+*저희의 개발 과정은 여러분의 후원을 통하여 촉진될 수 있다는 점을 알립니다. 여러분의 후원금은 더 나은 데이터 상호작용 추가 및 모델링 개발에 사용됩니다.*
 
 <a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
 
-Or in our newly launched Patreon!
+*또는 여기 새롭게 만든 패트리온 링크에서 가능합니다.*
 
 <a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a> 
 
@@ -26,87 +26,86 @@ Or in our newly launched Patreon!
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> Medic
+### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> 메딕
 
-- Parasitic Bomb can now be properly Restored by Medics
+- 이제 기생 폭탄이 메딕의 리스토레이션으로 완전히 치유가 됩니다.
 
-*previously Parasitic Bomb would linger at the area where it was restored*
+*기존에는 리스토레이션이 적용된 지점에 기생 폭탄이 머물러있었습니다.*
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-sieged@scbw.png" width="50" height="50"> Siege Tank
+### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-sieged@scbw.png" width="50" height="50"> 시즈 탱크
 
-- Corrected the 100% damage AoE radius from 0.3125 -> 0.375
+- 100% 방사 피해 범위 반경이 0.3125에서 0.375로 증가하였습니다.
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-valkyrie@scbw.png" width="50" height="50"> Valkyrie
+### <img src="{{site.baseurl}}/images/btn-unit-terran-valkyrie@scbw.png" width="50" height="50"> 발키리
 
-- Fixed an issue causing Valkyries to deal double damage to their main target
+- 발키리가 대상을 상대로 두 배 피해량을 입히던 문제를 해결하였습니다.
 
-*previously the Target unit would receive direct damage from the valkyrie plus the AoE damage*
+*기존에는 대상이 직접 피해 뿐만 아니라 주변에 적용되어야 할 방사 피해까지 같이 입는 버그가 있었습니다.*
 
 
 ***
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
-### <img src="{{site.baseurl}}/images/btn-building-protoss-shieldbattery@scbw.png" width="50" height="50"> Shield Battery
+### <img src="{{site.baseurl}}/images/btn-building-protoss-shieldbattery@scbw.png" width="50" height="50"> 실드 배터리
 
-- Added new Shield Battery Model
+- 신규 실드 배터리 모델링을 추가하였습니다.
 
 ![]({{site.baseurl}}/images/modelpreview-battery.png)
 
-*Credits to Kailniris for the original model, animations and effects by: Team Koprulu*
+*모델링 원작자: Kailniris님, 애니메이션 및 효과: 팀 코프룰루*
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-archon@scbw.png" width="50" height="50"> Archon
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-archon@scbw.png" width="50" height="50"> 아콘
 
-- Added new Archon Model
+- 신규 아콘 모델링을 추가하였습니다.
 
 ![]({{site.baseurl}}/images/modelpreview-archon.png)
 
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter.png" width="50" height="50"> Arbiter
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter.png" width="50" height="50"> 아비터
 
-- Stasis field can now stop Phased Units
+- 이제 스테이시스 필드가 적중 지점의 사도 그림자나 분열기 정화 폭발 구체를 제거합니다.
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon.png" width="50" height="50"> Dark Archon
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon.png" width="50" height="50"> 다크 아콘
 
-- Corrected units under the effects of Mind Control still costing supplies
-- Fixed an issue causing units affected by Maelstrom to still be picked up by Transports
+- 마인드 컨트롤의 영향을 받는 유닛이 여전히 보급품을 차지하던 문제를 해결하였습니다.
+- 메일스트롬에 묶인 유닛이 수송될 수 있던 문제를 해결하였습니다.
 
 ***
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-defiler@scbw.png" width="50" height="50"> Defiler
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-defiler@scbw.png" width="50" height="50"> 디파일러
 
-- Added new Dark Swarm Effects
+- 신규 다크 스웜 시각 효과를 추가하였습니다.
 
 ![]({{site.baseurl}}/images/modelpreview-darkswarm.png)
 
-- Added new Plague 
+- 신규 플레이그 시각 효과를 추가하였습니다.
 
 ![]({{site.baseurl}}/images/modelpreview-plague.png)
 
-- Increased Consume Range 0.1 -> 0.5
-- Corrected Plague not being able to Reveal Cloaked units
+- 컨슘의 시전 거리가 0.1에서 0.5로 증가하였습니다.
+- 플레이그가 은폐된 유닛을 드러내지 못하던 문제를 해결하였습니다.
 
 
 ***
 
-### Bug fixes & changes
+### 버그 픽스 및 변경점
 
-- Removed an unintended additional player Decal from Zerg Town Buildings
-- Fixed an issue causing Drones affected by Neural Parasite to morph into an enemy building
-- Fixed an issue causing Scourge to not show in the Observer Production panel
-- Fixed several interactions between Reaper's KD8 Charges and BroodWar units
-- Fixed an issue on Bunker Death models causing them to look low poly
-- Updated Mutalisk Textures
-- Updated Bunker Textures
-- Added Overlord Death Model
-- Added Target Volumes to Scourge
-- Added Target Volumes to Stasis Field
+- 저그 본진 건물에 의도치 않게 나타나던 데칼을 제거하였습니다.
+- 자신이 시전한 신경 기생충의 영향을 받는 상대 드론이 상대 팀의 건물로 변이하는 문제를 해결하였습니다.
+- 스커지가 관전자의 UI에 나타나지 않는 문제를 해결하였습니다.
+- 사신의 KD8 지뢰가 일부 스타1 유닛을 띄우지 않던 문제를 해결하였습니다.
+- 벙커의 사망 모델이 벙커를 저화질로 만들던 문제를 해결하였습니다.
+- 뮤탈리스크의 텍스처를 갱신하였습니다.
+- 벙커의 텍스처를 갱신하였습니다.
+- 오버로드의 사망 모델을 추가하였습니다.
 
 ***
-Credits: 
 
-_Kailniris for vulture moving shot_
+도움 주신 분: 
+
+_Kailniris님: 벌처 무빙 샷 데이터 구현_
 
 ***
