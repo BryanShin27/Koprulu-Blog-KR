@@ -1,0 +1,64 @@
+---
+layout: post
+title:  SC Evo Complete 모드 업데이트 v. 1.5
+description: 대규모 밸런스 변경 및 버그 픽스
+date:   2024-06-16 00:21:35 +0600
+image:  '/images/EvoExtension1_5.png'
+tags:   [Extension, Update]
+featured: true
+---
+
+## 이보 컴플리트 v. 1.5
+
+
+
+*저희의 개발 과정은 여러분의 후원을 통하여 촉진될 수 있다는 점을 알립니다. 여러분의 후원금은 더 나은 데이터 상호작용 추가 및 모델링 개발에 사용됩니다.*
+
+<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
+
+*또는 여기 새롭게 만든 패트리온 링크에서 가능합니다.*
+
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a> 
+
+***
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> 메딕
+
+- 이제 기생 폭탄이 메딕의 리스토레이션으로 완전히 제거됩니다.
+
+
+
+***
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+### <img src="{{site.baseurl}}/images/btn-building-protoss-shieldbattery@scbw.png" width="50" height="50"> 실드 배터리
+
+- 신규 실드 배터리 모델링을 추가하였습니다.
+
+
+***
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-defiler@scbw.png" width="50" height="50"> 디파일러
+
+- 신규 다크 스웜 시각 효과를 추가하였습니다.
+
+
+***
+
+### 버그 픽스 및 변경점
+
+- Removed an unintended additional player Decal from Zerg Town Buildings
+
+***
+도움 주신 분: 
+
+_GhostNova - 파일론 킷배시_
+
+_Lawless - 파일론 애니메이션/시각 효과_
+
+***
