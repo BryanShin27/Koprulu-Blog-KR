@@ -80,7 +80,13 @@ featured: true
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> 벌처
 
-- 이제 스파이더 마인이 추격하던 대상이 사망 시 새로운 대상을 쫓지 않고 버로우합니다.
+- 스파이더 마인 매설이 이제 '스마트 캐스팅' 기능 대신 스타1 시절의 행동을 모방합니다. 선택한 모든 벌처가 대상 지역에 마인을 매설하고자 시도합니다.
+*이는 스파이더 마인 매설이 필요 이상으로 너무 많은 노동을 요구하며, 래피드 파이어를 강제하던 문제를 해결하고자 함입니다.*
+
+- 이제 스파이더 마인은 언버로우 시 발동 반경 이내에 있었던 유닛만을 대상으로 합니다.
+- 이제 스파이더 마인은 발동시킨 대상을 범위 9 내에서 지속하여 추격합니다.
+- 이제 스파이더 마인은 대상이 순간 이동 시 추격을 멈춥니다. (사도의 사이오닉 이동, 추적자/암흑 기사의 점멸)
+- 이제 대상이 은폐를 발동하여도 스파이더 마인이 멈추지 않습니다. Spider Mines no longer stop if the chased target cloaks
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-ghost@scbw.png" width="50" height="50"> 고스트
 
