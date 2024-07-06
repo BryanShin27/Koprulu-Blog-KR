@@ -221,7 +221,7 @@ _쉽게 설명드려, 벌처는 광전사를 상대로 실드에 입히는 피�
 - 안테나 진화의 탐지 범위 증가량이 2에서 3으로 증가하였습니다.
 - 이제 오버로드가 /춤 명령을 사용할 수 있습니다. __(코어)__
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-zergling@SCBW.png" width="50" height="50"> 저글링
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-ZerglingSCBW.png" width="50" height="50"> 저글링
 
 - 스포닝 풀의 건설 시간이 65에서 72로 증가하였습니다.
 - 신진대사 촉진 업그레이드의 연구 시간이 110에서 103으로 감소하였습니다.
@@ -247,7 +247,7 @@ _쉽게 설명드려, 벌처는 광전사를 상대로 실드에 입히는 피�
 - 가디언의 무기 피해량이 20에서 25로 증가하였습니다.
 - 가디언의 이동 속도가 1.438에서 1.625로 증가하였습니다.
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-devourerex3@scbw.png" width="50" height="50"> 디바우러
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-devourerex3.png" width="50" height="50"> 디바우러
 
 - 디바우러로의 변태 시간이 40에서 35로 감소하였습니다.
 - 디바우러의 무기 피해량이 18.75에서 20.25로 증가하였습니다. (중장갑 대상 25 -> 27)
