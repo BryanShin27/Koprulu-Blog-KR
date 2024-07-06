@@ -148,7 +148,7 @@ _쉽게 설명드려, 벌처는 광전사를 상대로 실드에 입히는 피�
 - 플릿 비콘의 비용이 300/200 에서 250/200으로 감소하였습니다.
 - 셔틀의 비용이 200에서 175로 감소하였습니다.
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot.png" width="50" height="50"> 질럿
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot@scbw.png" width="50" height="50"> 질럿
 
 - 질럿 다리 강화의 이동 속도 증가 배율이 1.35에서 1.4로 증가하였습니다.
 - 질럿 다리 강화의 공격 속도 증가 효과가 삭제되었습니다.
@@ -221,7 +221,7 @@ _쉽게 설명드려, 벌처는 광전사를 상대로 실드에 입히는 피�
 - 안테나 진화의 탐지 범위 증가량이 2에서 3으로 증가하였습니다.
 - 이제 오버로드가 /춤 명령을 사용할 수 있습니다. __(코어)__
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-zergling@scbw.png" width="50" height="50"> 저글링
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-zergling@SCBW.png" width="50" height="50"> 저글링
 
 - 스포닝 풀의 건설 시간이 65에서 72로 증가하였습니다.
 - 신진대사 촉진 업그레이드의 연구 시간이 110에서 103으로 감소하였습니다.
@@ -233,7 +233,7 @@ _쉽게 설명드려, 벌처는 광전사를 상대로 실드에 입히는 피�
 
 *이번 패치로 히드라리스크가 미네랄 사이를 이동할 수 있는 버그를 수정하였습니다.*
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker@scbw.png" width="50" height="50"> 러커
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker.png" width="50" height="50"> 러커
 
 - 러커의 무기 사거리가 8에서 7로 감소하였습니다.
 
@@ -247,7 +247,7 @@ _쉽게 설명드려, 벌처는 광전사를 상대로 실드에 입히는 피�
 - 가디언의 무기 피해량이 20에서 25로 증가하였습니다.
 - 가디언의 이동 속도가 1.438에서 1.625로 증가하였습니다.
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-devourer@scbw.png" width="50" height="50"> 디바우러
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-devourerex3@scbw.png" width="50" height="50"> 디바우러
 
 - 디바우러로의 변태 시간이 40에서 35로 감소하였습니다.
 - 디바우러의 무기 피해량이 18.75에서 20.25로 증가하였습니다. (중장갑 대상 25 -> 27)
