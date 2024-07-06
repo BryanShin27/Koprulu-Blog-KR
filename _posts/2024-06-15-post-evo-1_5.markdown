@@ -35,9 +35,11 @@ featured: true
 
 - 스타1 종족만 사용 가능한 클래식 아이콘 스킨이 추가되었습니다. (흑백 아이콘)
 
-![]({{site.baseurl}}/images/tut-menubar.png)
+![]({{site.baseurl}}/images/tut-iconskin.png)
 
 - 스타1 프로토스의 아이어 넥서스 스킨이 추가되었습니다.
+
+![]({{site.baseurl}}/images/modelpreview-aiurnexus.png)
 
 ![]({{site.baseurl}}/images/modelpreview-aiurnexus.png)
 
