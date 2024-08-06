@@ -100,7 +100,7 @@ featured: true
 - 파이어뱃의 생산 시간이 19에서 17로 감소하였습니다.
 - 파이어뱃의 체력이 60에서 65로 증가하였습니다.
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-medic@scbw.png" width="50" height="50"> 메딕
+### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> 메딕
 
 - 메딕의 생산 시간이 18에서 17로 감소하였습니다.
 - 메딕의 공격 우선 순위값이 감소하였습니다.
@@ -166,7 +166,7 @@ featured: true
 
 *기존의 기본 단축키 설정값은 저그 플레이어들에게 잦은 실수를 유발하였습니다. 이에 저희는 문제를 자주 일으키는 업그레이드 단축키 값을 키보드 우측으로 옮겨서 실수를 줄이고자 하였습니다.*
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-zergling@scbw.png" width="50" height="50"> 저글링
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-ZerglingSCBW.png" width="50" height="50"> 저글링
 
 - 저글링의 공격 주기가 0.43에서 0.41로 감소하였습니다.
 - 신진 대사 촉진의 연구 시간이 74에서 71로 감소하였습니다.
@@ -180,7 +180,7 @@ featured: true
 
 *히드라리스크의 기본 사거리 값을 늘림으로써 히드라리스크를 활용한 초반 수비를 더 견고하게 하였습니다.*
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker@scbw.png" width="50" height="50"> 러커
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker.png" width="50" height="50"> 러커
 
 - 러커의 체력이 135에서 140으로 증가하였습니다.
 - 러커로의 변이 시간이 18에서 15로 감소하였습니다.
