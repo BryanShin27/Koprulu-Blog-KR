@@ -1,0 +1,215 @@
+---
+layout: post
+title:  SC Evo Complete 모드 v. 1.7
+description: 소규모 밸런스 패치 및 레거시 모드 업데이트
+date:   2024-08-05 06:47:35 +0600
+image:  '/images/EvoExtension1_7_PTR.png'
+tags:   [Extension, Legacy, Update]
+featured: true
+---
+
+## 이보 컴플리트 v. 1.7
+
+**Intro Spiel**
+
+Topics to adress:
+Balance Team is Korean former pros, Donors and discord members do not have a stake in balance changes.
+Why we took so long to update
+Art changes?
+Going forward
+
+*저희의 개발 과정은 여러분의 후원을 통하여 촉진될 수 있다는 점을 알립니다. 여러분의 후원금은 게임 운영에 필요한 데이터 유지보수와 확장, 그리고 모델링 개발에 사용됩니다.*
+
+<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
+
+*또는 여기 새롭게 만든 패트리온 링크에서 가능합니다.*
+
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a> 
+
+***
+
+![]({{site.baseurl}}/images/Divider_CoreMods.png)
+
+
+***
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+**밸런스 수정**
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+*테란은 병력 소모 이후 인구수를 회복하는 과정에 취약한 모습을 보였습니다. 이를 보완하기 위하여 전반적으로 빌드 타임 감소가 이루어졌습니다.*
+
+- 벙커의 체력이 350에서 400으로 증가하였습니다.
+- 벙커의 건설 시간이 21에서 29로 증가하였습니다.
+
+*이러한 변화는 테란의 초반 수비력을 강화하고 회수 기능의 부재에 대한 적절한 보상을 제공합니다. 동시에 건설 시간을 늘림으로써 초반 벙커 러시가 지나치게 강하지 않도록 억제하였습니다.*
+
+- 컨트롤 타워의 건설 시간이 21에서 18로 감소하였습니다.
+- 컨트롤 타워의 생산 비용이 50/50에서 50/25으로 감소하였습니다.
+- 코버트 옵스의 건설 시간이 21에서 18로 감소하였습니다.
+- 코버트 옵스의 생산 비용이 50/50에서 50/25으로 감소하였습니다.
+
+*위의 변화로써 스타1의 애드온은 스타2의 기술실과 일관성을 지닙니다.*
+
+- 사이언스 퍼실리티의 건설 시간이 46에서 43으로 감소하였습니다.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-marine@scbw.png" width="50" height="50"> 마린
+
+- 마린의 생산 시간이 18에서 17로 감소하였습니다.
+- 스팀팩의 연구 시간이 79에서 57로 감소하였습니다.
+- U-238 탄환의 연구 비용이 150/100에서 100/100으로 감소하였습니다.
+- U-238 탄환 연구의 연구 시간이 67에서 79로 증가하였습니다.
+
+*위의 변화는 초반 바이오 찌르기를 가능토록 하면서 중반 올인은 억제하는 효과를 낳습니다.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-firebat@scbw.png" width="50" height="50"> 파이어뱃
+
+- 파이어뱃의 생산 시간이 19에서 17로 감소하였습니다.
+- 파이어뱃의 체력이 60에서 65로 증가하였습니다.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-medic@scbw.png" width="50" height="50"> 메딕
+
+- 메딕의 생산 시간이 18에서 17로 감소하였습니다.
+- 메딕의 공격 우선 순위값이 감소하였습니다.
+
+*메딕은 전투가 벌어질 때 가장 먼저 죽곤 합니다.우선 순위값을 낮춤으로써 메딕의 생존성을 조금 높였습니다.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> 벌처
+
+- 벌처의 생산 시간이 21에서 19로 감소하였습니다.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-sieged@scbw.png" width="50" height="50"> 시즈 탱크
+
+- 시즈 모드의 연구 비용이 100/100에서 50/50으로 감소하였습니다.
+- 시즈 탱크의 탱크 모드 공격 주기가 1.65에서 1.58로 감소하였습니다.
+- 시즈 탱크의 시즈 모드 공격 주기가 3.01에서 2.70로 감소하였습니다.
+
+*위의 변화는 약세를 면치 못하던 시즈 탱크를 더 강력하게 해줄 것입니다.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-goliath@scbw.png" width="50" height="50"> 골리앗
+
+- 골리앗의 생산 시간이 24에서 22로 감소하였습니다.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-wraith@scbw.png" width="50" height="50"> 레이스
+
+- 레이스의 생산 시간이 30에서 27로 감소하였습니다.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-dropship@scbw.png" width="50" height="50"> 드랍십
+
+- 드랍십의 생산 시간이 30에서 27로 감소하였습니다.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-valkyrie@scbw.png" width="50" height="50"> 발키리
+
+- 발키리의 생산 시간이 36에서 33으로 감소하였습니다.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-sciencevessel@scbw.png" width="50" height="50"> 사이언스 베슬
+
+- 사이언스 베슬의 생산 시간이 43에서 39로 감소하였습니다.
+- 사이언스 베슬의 생산 비용이 100/225에서 100/200으로 감소하였습니다.
+- EMP의 연구 비용이 200/200에서 150/150으로 감소하였습니다.
+- EMP의 연구 시간이 100에서 79로 감소하였습니다.
+- 이래디에이트의 연구 비용이 200/200에서 150/150으로 감소하였습니다.
+
+*위의 버프는 지난 패치에서의 사이언스 베슬 너프에 대한 보상으로 주어졌으며, 추가로 EMP 상향은 대토스전에서의 활용성을 높이기 위하여 이루어졌습니다.*
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+- 에볼루션 챔버의 건설 시간이 25에서 20으로 감소하였습니다.
+- 크립 콜로니의 건설 비용이 75에서 50으로 감소하였습니다.
+- 스포어 콜로니의 건설 비용이 50에서 25로 감소하였습니다.
+- 스포어 콜로니의 공격 사거리가 8에서 8.5로 증가하였습니다.
+- 성큰 콜로니의 체력이 300에서 350으로 증가하였습니다.
+- 성큰 콜로니의 공격 사거리가 7에서 7.5로 증가하였습니다.
+
+*저그의 약한 초반 수비력은 항상 종족의 발목을 붙잡아왔습니다.위의 변화는 성큰 콜로니와 스포어 콜로니의 이동 불가능한 측면에 대한 보상을 주고 둘을 이전보다 더 유용하도록 할 것입니다.*
+
+- 스파이어의 건설 비용이 200/150에서 150/100으로 감소하였습니다.
+- 퀸즈 네스트의 건설 비용이 150/100에서 100/100으로 감소하였습니다.
+- 그레이터 스파이어의 변이 시간이 71에서 57로 감소하였습니다.
+
+*위의 변화는 저그의 테크 발전 과정에 도움을 주고 더 유연하게 병력 조합을 갖출 수 있도록 할 것입니다.*
+
+- 오버로드 업그레이드의 단축키를 조정하였습니다.
+
+*기존의 기본 단축키 설정값은 저그 플레이어들에게 잦은 실수를 유발하였습니다. 이에 저희는 문제를 자주 일으키는 업그레이드 단축키 값을 키보드 우측으로 옮겨서 실수를 줄이고자 하였습니다.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-zergling@scbw.png" width="50" height="50"> 저글링
+
+- 저글링의 공격 주기가 0.43에서 0.41로 감소하였습니다.
+- 신진 대사 촉진의 연구 시간이 74에서 71로 감소하였습니다.
+
+*현재 저글링은 제 위력을 제대로 내지 못하고 있기에 이를 공격 속도 소폭 상향으로 해결하고자 합니다. 또한 신진 대사 촉진 연구 시간 감소로써 저글링의 초반 사신 대응을 더 용이하게 하였습니다.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> 히드라리스크
+
+- 기본 공격 사거리가 4에서 5로 증가하였습니다.
+- 가시 홈 진화의 추가 사거리량이 2에서 1로 감소하였습니다.
+
+*히드라리스크의 기본 사거리 값을 늘림으로써 히드라리스크를 활용한 초반 수비를 더 견고하게 하였습니다.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker@scbw.png" width="50" height="50"> 러커
+
+- 러커의 체력이 135에서 140으로 증가하였습니다.
+- 러커로의 변이 시간이 18에서 15로 감소하였습니다.
+- 러커 진화 연구 비용이 200/200에서 150/150으로 감소하였습니다.
+
+*현재 러커는 너무 비싸고 비효과적입니다. 위의 변화는 초반과 후반 사이의 다리를 조금 더 견고하게 만드는 것을 목표로 합니다.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-defiler@scbw.png" width="50" height="50"> 디파일러
+
+- 디파일러의 체력이 80에서 90으로 증가하였습니다.
+- 플레이그의 시전 딜레이가 0.04에서 0으로 감소하였습니다.
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-overlord@scbw.png" width="50" height="50"> 오버로드
+
+- 배주머니 진화의 연구 시간이 93에서 71로 감소하였습니다.
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot@scbw.png" width="50" height="50"> 질럿
+
+- 질럿의 생산 시간이 27에서 24로 감소하였습니다.
+
+*위 변화는 프로토스의 초반 압박을 강화할 것입니다.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-hightemplar@scbw.png" width="50" height="50"> 하이 템플러
+
+- 할루시네이션의 에너지 비용이 75에서 50으로 감소하였습니다.
+- 할루시네이션의 연구 비용이 100/100에서 50/50으로 감소하였습니다.
+- 할루시네이션의 연구 시간이 64에서 57로 감소하였습니다.
+
+*할루시네이션은 현재 사용 빈도가 지극히 낮습니다. 위 변화로써 새로운 시도가 보이기를 기대합니다.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon@scbw.png" width="50" height="50"> 다크 아콘
+
+- 다크 아콘의 실드량이 200에서 225로 증가하였습니다.
+- 메일스트롬의 지속 시간이 9에서 11로 증가하였습니다.
+- 메일스트롬의 연구 시간이 69에서 57로 감소하였습니다.
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-shuttle@scbw.png" width="50" height="50"> 셔틀
+
+- 중력 구동기의 연구 비용이 150/150에서 100/100으로 감소하였습니다.
+
+*이 변화는 셔틀의 이동 속도 업그레이드가 동명의 차원분광기 이동 속도 업그레이드와 일관성을 지니도록 합니다.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-reaver@scbw.png" width="50" height="50"> 리버
+
+- 리버의 생산 시간이 47에서 39로 감소하였습니다.
+- 스캐럽 데미지 증가의 연구 비용이 150/150에서 125/125로 감소하였습니다.
+- 스캐럽 데미지 증가의 연구 시간이 100에서 79로 감소하였습니다.
+- 수용량 증가의 연구 비용이 150/150에서 125/125로 감소하였습니다.
+- 수용량 증가의 연구 시간이 93에서 57로 감소하였습니다.
+
+*위의 변화는 리버가 중반에도 유용하게 쓰일 것을 목표로 합니다. 그 중에서도 수용량 증가 연구는 자주 사용되지 않아 변화를 주고자 하였습니다.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-carrier@scbw.png" width="50" height="50"> 캐리어
+
+- 인터셉터의 사출 주기가 0.58에서 0.25로 감소하였습니다.
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter@scbw.png" width="50" height="50"> 아비터
+
+- 아비터의 생산 시간이 75에서 69로 감소하였습니다.
+
+***
