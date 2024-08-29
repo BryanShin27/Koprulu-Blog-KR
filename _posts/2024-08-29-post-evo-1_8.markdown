@@ -1,0 +1,125 @@
+---
+layout: post
+title:  SC Evo Complete 모드 v. 1.8
+description: 밸런스 및 레거시 모드 패치
+date:   2024-08-29 11:13:35 +0600
+image:  '/images/EvoExtension1_8.png'
+tags:   [Extension, Update, Legacy]
+featured: true
+---
+
+## 이보 컴플리트 v. 1.8
+
+안녕하세요.
+
+저희 팀의 모든 인원은 각자의 역할에 열중하며 바쁘게 보내고 있었습니다. 그 성과로서 다가올 2.0 업데이트의 새로운 면모를 여러분께 보여드릴 생각에 무척이나 기쁩니다. 아직 전체 목록을 만들지 않았으나 그 중에는 랭크전과 레거시 캠페인이 포함되어 있으니 추후에 다가올 새 소식을 기대해주시기 바랍니다.
+
+그 사이에 저희는 앞으로도 이어질 밸런스 업데이트를 하나 준비하였습니다.
+
+저희는 모든 분들께서 스타크래프트 에볼루션 리그(SEL)에 관하여 알아주셨으면 좋겠습니다. 이 리그는 SC: Evo에 기반한 오픈 토너먼트로 누구나 참가할 수 있습니다. 저희는 이 토너먼트가 여러 멋진 경기와 새롭고 흥미로운 전략으로써 저희의 밸런스 업데이트에 활력을 불어넣어줄 것을 기대하며, 앞으로 리그 및 랭크전을 위한 여러 새로운 맵을 제작하고자 합니다.
+
+항상 그래왔듯이, 이 프로젝트에 후원해주시는 저희의 후원자 여러분께 진심으로 감사 인사를 드립니다. 이로써 저희는 더욱 멋진 것을 만들어나가며 저희의 최선을 전달해드릴 수 있을 것을 약속드립니다.
+
+<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
+
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a> 
+
+***
+
+![]({{site.baseurl}}/images/Divider_CoreMods.png)
+
+- 아콘 및 다크 아콘의 반경이 1.0에서 0.75로 감소하였습니다.
+- 리버의 반경이 0.8215에서 0.75로 감소하였습니다.
+- 러커 에그의 반경이 0.5에서 0.625로 증가하였습니다.
+- 러커의 반경이 0.75에서 0.625로 감소하였습니다.
+
+***
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+**밸런스 변경점**
+
+***모든 시간 수치는 보통 속도 기준입니다***
+
+- 모든 에너지 업그레이드의 초기 에너지 증가량이 12에서 25로 증가하였습니다.
+- 이제 다크 스웜의 효과를 무시하는 원거리 무기는 "관통형" 유형으로 표시됩니다.
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+
+- 배럭의 건설 시간이 71에서 67로 감소하였습니다.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-marine@scbw.png" width="50" height="50"> 마린
+
+- 마린의 체력이 45에서 40으로 감소하였습니다.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> 벌처
+
+- 벌처의 공격 주기가 2에서 1.9로 감소하였습니다.
+- 스파이더 마인의 체력이 20에서 25로 증가하였습니다.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-goliath@scbw.png" width="50" height="50"> 골리앗
+
+- 골리앗 사거리 증가 업그레이드의 사거리 증가량이 3에서 2로 감소하였습니다.
+- 골리앗의 공격 주기가 1.375에서 1.2375로 감소하였습니다.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-valkyrie@scbw.png" width="50" height="50"> 발키리
+
+- 발키리의 미사일 발사간 지연시간이 감소하였습니다.
+- 발키리의 미사일 속도가 증가하였습니다.Increased Valkyrie Missile speed
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+### <img src="{{site.baseurl}}/images/btn-building-zerg-nydusnetwork.png" width="50" height="50"> 나이더스 커널
+
+- 나이더스 커널의 비용이 200에서 100으로 감소하였습니다.
+- 나이더스 커널의 건설 시간이 35에서 28로 감소하였습니다.
+- 나이더스 커널 출구의 건설 시간이 20에서 15로 감소하였습니다.
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-scourge.png" width="50" height="50"> 스커지
+
+- 스커지의 체력이 25에서 30으로 증가하였습니다.
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> 히드라리스크
+
+- 히드라리스크의 공격 주기가 1.0312에서 0.938로 감소하였습니다.
+- 히드라리스크의 사거리가 5에서 4로 감소하였습니다.
+- 히드라리스크의 Damage point가 0.208에서 0.08로 감소하였습니다. (*Damage Point란 유닛이 공격 직후 새로운 명령을 수용할 수 있기까지의 시간 차를 뜻합니다)
+
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+- 플릿 비콘의 건설 시간이 60에서 50으로 감소하였습니다.
+- 아비터 트라이뷰널의 건설 시간이 56에서 50으로 감소하였습니다.
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-ShuttleSCBW.png" width="50" height="50"> 셔틀
+
+- 셔틀의 생산 시간이 50에서 46으로 감소하였습니다.
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-corsair.png" width="50" height="50"> 커세어
+
+- 디스럽션 웹의 연구 시간이 90에서 80으로 감소하였습니다.
+- 디스럽션 웹의 연구 비용이 100/150에서 50/50/으로 감소하였습니다.
+- 커세어의 초기 에너지가 50에서 75로 증가하였습니다.
+
+### 버그 픽스 및 변경점
+
+- 리버와 다크 아콘이 역장 너머로 길을 찾지 못하던 문제를 수정하였습니다.
+- 지게로봇에 부유 및 로봇 속성을 부여하였습니다.
+- 사이클론의 목표물 고정이 러커의 가시 공격에 적용되던 문제를 수정하였습니다.
+- 커세어의 방사 피해가 다른 유닛의 미사일 공격에 적용되던 문제를 수정하였습니다. __(코어)__
+- 메딕이 공중 유닛을 치유할 수 있던 문제를 수정하였습니다. __(코어)__
+- 시즈 탱크의 공격 역학이 제대로 작동하지 않던 문제를 수정하였습니다. __(코어)__
+- 디파일러의 모델링에 피격점이 부재하던 문제를 수정하였습니다. __(코어)__
+- 디파일러의 산성 및 화염 사망 애니메이션에 소리가 제대로 출력되지 않던 문제를 수정하였습니다. __(코어)__
+
+![]({{site.baseurl}}/images/Divider_Legacy.png)
+
+- 고지대 및 수풀에서 공격하는 유닛은 이제 그 주변 모습이 드러납니다.
+- 더 이상 에그, 러커 에그 및 고치가 체력을 재생하지 않습니다.
+- 이제 빗나간 뮤탈리스크의 공격은 다음 대상을 향해 튕겨나가지 않습니다.
+- 이제 튕겨나간 뮤탈리스크의 공격은 다크 스웜 속에서도 피해를 입힙니다.
+- 빗나간 시즈 탱크의 공격이 피격 유닛의 크기에 따라 변하면서 옳지 않은 피해량을 입히던 문제를 수정하였습니다.
+
+***
+

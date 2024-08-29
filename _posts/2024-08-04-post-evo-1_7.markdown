@@ -5,7 +5,6 @@ description: 밸런스 패치 및 개발 소식
 date:   2024-08-05 06:47:35 +0600
 image:  '/images/EvoExtension1_7.png'
 tags:   [Extension, Legacy, Update]
-featured: true
 ---
 
 ## 이보 컴플리트 v. 1.7
