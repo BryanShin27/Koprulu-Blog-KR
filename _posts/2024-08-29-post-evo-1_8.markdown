@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  SC Evo Complete 모드 v. 1.8
+title:  SC Evo Complete 모드 v. 1.8 (+핫픽스 v.1.8.1)
 description: 밸런스 및 레거시 모드 패치
 date:   2024-08-29 11:13:35 +0600
 image:  '/images/EvoExtension1_8.png'
@@ -26,6 +26,13 @@ featured: true
 
 ***
 
+**핫픽스 v.1.8.1**
+
+- 마린의 체력이 40에서 45로 증가하였습니다.
+- 히드라리스크의 기본 사거리가 4에서 5로 증가하였습니다.
+
+***
+
 ![]({{site.baseurl}}/images/Divider_CoreMods.png)
 
 - 아콘 및 다크 아콘의 반경이 1.0에서 0.75로 감소하였습니다.
@@ -48,10 +55,12 @@ featured: true
 
 
 - 배럭의 건설 시간이 71에서 67로 감소하였습니다.
+- 파이어뱃의 스팀팩 사용시 공격 속도 상승 효과가 50%에서 100%로 증가하였습니다.
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-marine@scbw.png" width="50" height="50"> 마린
 
 - 마린의 체력이 45에서 40으로 감소하였습니다.
+- 스팀팩 사용시 공격 속도 상승 효과가 50%에서 100%로 증가하였습니다.
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> 벌처
 
