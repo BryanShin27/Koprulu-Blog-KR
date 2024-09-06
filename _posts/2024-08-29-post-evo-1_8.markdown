@@ -66,7 +66,7 @@ featured: true
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-valkyrie@scbw.png" width="50" height="50"> 발키리
 
 - 발키리의 미사일 발사간 지연시간이 감소하였습니다.
-- 발키리의 미사일 속도가 증가하였습니다.Increased Valkyrie Missile speed
+- 발키리의 미사일 속도가 증가하였습니다.
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
