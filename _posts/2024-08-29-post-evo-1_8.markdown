@@ -5,7 +5,6 @@ description: 밸런스 및 레거시 모드 패치
 date:   2024-08-29 11:13:35 +0600
 image:  '/images/EvoExtension1_8.png'
 tags:   [Extension, Update, Legacy]
-featured: true
 ---
 
 ## 이보 컴플리트 v. 1.8
