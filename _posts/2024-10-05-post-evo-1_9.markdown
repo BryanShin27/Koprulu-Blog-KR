@@ -1,12 +1,26 @@
 ---
 layout: post
-title:  SC Evo Complete 모드 v. 1.9
+title:  SC Evo Complete 모드 v. 1.9.3
 description: 밸런스 패치 및 신규 모델링
 date:   2024-10-05 11:13:35 +0600
 image:  '/images/EvoExtension1_9.png'
 tags:   [Extension, Update]
 featured: true
 ---
+
+## 업데이트 v. 1.9.3
+
+- 신규 포톤 캐논 모델링이 추가되었습니다.
+
+![]({{site.baseurl}}/images/modelpreview-photoncannon.png)
+
+## 핫픽스 v. 1.9.2
+
+- 러커가 버로우 시 체력이 변하는 문제를 수정하였습니다.
+
+## 핫픽스 v. 1.9.1
+
+- 리버가 착륙 직후에 스캐럽을 경직 없이 발사하던 문제를 수정하였습니다.__(코어)__
 
 ## 이보 컴플리트 v. 1.9
 
@@ -52,7 +66,7 @@ featured: true
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-marine@scbw.png" width="50" height="50"> 마린
-- 스팀팩의 연구 시간이 110에서 84로 감소하였습니다.
+- 스팀팩의 연구 시간이 80에서 76으로 감소하였습니다.
 - U-238 탄환의 연구 시간이 110에서 100으로 감소하였습니다.
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> 메딕
@@ -93,7 +107,8 @@ featured: true
 
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-ZerglingSCBW.png" width="50" height="50"> 저글링
-- 저글링의 공격 주기가 0.57에서 0.55로 감소하였습니다.
+- 저글링의 공격 주기가 0.57에서 0.58로 증가하였습니다.
+- 저글링 아드레날린 분비선의 공격 주기 감소량이 45%에서 40%로 감소하였습니다.
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker.png" width="50" height="50"> 러커
 - 러커의 무기 사거리가 7에서 7.5로 증가하였습니다.
