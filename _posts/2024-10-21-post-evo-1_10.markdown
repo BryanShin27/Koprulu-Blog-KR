@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  SC Evo Complete Extension 1.10 patch notes
-description: Art Update and Balance Changes
+title:  SC Evo Complete 모드 v. 1.10
+description: 아트 업데이트 및 밸런스 수정
 date:   2024-10-22 11:13:35 +0600
 image:  '/images/EvoExtension1_10.png'
 tags:   [Extension, Update]
