@@ -2,19 +2,17 @@
 layout: post
 title:  SC Evo Complete Extension 1.10 patch notes
 description: Art Update and Balance Changes
-date:   2024-10-05 11:13:35 +0600
+date:   2024-10-22 11:13:35 +0600
 image:  '/images/EvoExtension1_10.png'
 tags:   [Extension, Update]
 featured: true
 ---
 
-## Evo Complete Extension Update 1.10
+## 이보 컴플리트 v. 1.10
 
-Hey everyone we have a Minor patch to address some balance concerns as well as some much needed buffs to some units, this update also addresses some model issues that we previously had specifically with the Siege Tank.
+안녕하세요. 저희는 밸런스 문제점을 일부 수정하면서 시즈 탱크의 모델링과 관련한 오류를 해소하고자 이번 소규모 패치를 진행하게 되었습니다. 더 많은 내용의 밸런스 패치를 준비하고 있으나, 아직은 검토가 더 필요합니다.
 
-We have a larger balance patch in the works but it needs more time for all the data to be reviewed.
-
-As always thank you to all our Patreons and Donors for all their help in funding this project, we hope to continue to make more amazing things and deliver the best remake we possibly can.
+항상 그래왔듯이, 이 프로젝트에 후원해주시는 저희의 후원자 여러분께 진심으로 감사 인사를 드립니다. 이로써 저희는 더욱 멋진 것을 만들어나가며 저희의 최선을 전달해드릴 수 있을 것을 약속드립니다.
 
 <a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
 
@@ -24,67 +22,64 @@ As always thank you to all our Patreons and Donors for all their help in funding
 
 ![]({{site.baseurl}}/images/Divider_CoreMods.png)
 
-- Updated Siege Tank Models
+- 시즈 탱크의 모델링을 갱신하였습니다.
 
 ![]({{site.baseurl}}/images/modelpreview-newsiegetank.png)
 
-***Our previous model had some scaling issues causing a plethora of visual bugs under certain conditions, we've also added new improved Explosion Effects as well as Added Ragdoll Models.***
+***기존 모델링은 크기에 비율 문제가 있어서 몇몇 조건에서 버그가 자주 발생하였습니다. 이를 개선하면서 사망 시 폭발 효과와 래그돌을 함께 추가하였습니다.***
 
 ***
 
 ![]({{site.baseurl}}/images/Divider_Extension.png)
 
-**Balance Changes**
+**밸런스 수정**
 
-- Increased Acceleration of StarCraft 1 Workers to 2.688
-*This change effectively increases the gathering bonus from 5% -> 6% over StarCraft 2 Races*
+- 스타1 일꾼의 가속도가 2.688로 증가하였습니다.
+*위 변화로써 스타1 종족의 채취량 이득 폭이 스타2 대비 5%에서 6%로 증가하였습니다.*
 
-***All Time values are in Normal Speed***
+***모든 시간 값은 보통 속도 기준입니다.***
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-ghost@scbw.png" width="50" height="50"> Ghost
-- Decreased Lockdown Duration from 46 -> 41.4 (10% Reduction)
+### <img src="{{site.baseurl}}/images/btn-unit-terran-ghost@scbw.png" width="50" height="50"> 고스트
+- 락다운의 지속시간이 46에서 41.4로 감소하였습니다. (10% 감소)
 
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> Hydralisk
-- Hydrlisk's Weapon is now a Hitscan __(Core)__
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> 히드라리스크
+- 이제 히드라리스크의 무기가 투사체에서 즉발형으로 변경되었습니다. __(코어)__
 
-***This means that their attacks no longer have a travel time and will hit units instantly**
-
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker.png" width="50" height="50"> Lurker
-- Reduced Weapon Range from 7.5 -> 7.0
-- Reduced Health from 145 -> 140
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker.png" width="50" height="50"> 러커
+- 러커의 무기 사거리가 7.5에서 7.0으로 감소하였습니다.
+- 러커의 체력이 145에서 140으로 감소하였습니다.
 
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-ShuttleSCBW.png" width="50" height="50"> Shuttle
-- Increased Shuttle Unload Range from 1 -> 2.5
-- Decreased Shuttle Unload Cooldown from 1 -> 0.9
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-ShuttleSCBW.png" width="50" height="50"> 셔틀
+- 셔틀의 내보내기 범위가 1에서 2.5로 증가하였습니다.
+- 셔틀의 내보내기 쿨타임이 1에서 0.9로 감소하였습니다.
 
-### <img src="{{site.baseurl}}/images/btn-building-protoss-shieldbattery@scbw.png" width="50" height="50"> Shield Battery
-- Recharge Shields is now Autocast at a rate of 20 shields per second
+### <img src="{{site.baseurl}}/images/btn-building-protoss-shieldbattery@scbw.png" width="50" height="50"> 실드 배터리
+- 이제 보호막 재충전이 자동 시전되며, 초당 20의 실드를 회복시켜줍니다.
 
-***We will be monitoring this change in the coming days to decide if the heal value and energy costs need to be adjusted.***
-***In the previous iteration Batteries would recharge at a rate of 112 shields per second***
+***저희는 이 회복 수치나 에너지 소모량이 적절한 지를 주시하며 추가 조정 여부를 결정할 것입니다.***
+***기존의 실드 배터리는 초당 112의 실드를 회복시켜 주었습니다.***
 
 
-### Bug fixes & changes
-- Fixed an issue that would cause Ensnare to not properly negate the effects of Stimpack
-- Updated Scout's Death Animations
-- Updated Siege Tank's Animations/Models
+### 버그 픽스 및 변경점
+- 인스네어가 제대로 스팀팩의 공격 속도 증가량을 감소시키지 않는 문제를 수정하였습니다.
+- 스카웃의 사망 애니메이션을 갱신하였습니다.
+- 시즈 탱크의 애니메이션 및 모델링을 갱신하였습니다.
 
-Finally i'd like to end today's post with a little surprise for an upcoming update
+마지막으로, 저희는 이번 글을 추후에 다가올 업데이트를 드러내는 깜짝 선물로 마무리하고자 합니다.
 
 ![]({{site.baseurl}}/gifs/2020-21-10-teaser-lurker.gif)
 
-This Model was chosen by our Patrons.
+이 모델링은 저희의 후원자분들께서 결정해주셨습니다.
 
 ***
-
