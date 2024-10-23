@@ -50,7 +50,7 @@ featured: true
 
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> 히드라리스크
-- 이제 히드라리스크의 무기가 투사체에서 즉발형으로 변경되었습니다. __(코어)__
+- 이제 히드라리스크의 무기가 투사체에서 즉발로 변경되었습니다. __(코어)__
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker.png" width="50" height="50"> 러커
 - 러커의 무기 사거리가 7.5에서 7.0으로 감소하였습니다.
@@ -61,7 +61,7 @@ featured: true
 
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-ShuttleSCBW.png" width="50" height="50"> 셔틀
-- 셔틀의 내보내기 범위가 1에서 2.5로 증가하였습니다.
+- 셔틀의 들이기 범위가 1에서 2.5로 증가하였습니다.
 - 셔틀의 내보내기 쿨타임이 1에서 0.9로 감소하였습니다.
 
 ### <img src="{{site.baseurl}}/images/btn-building-protoss-shieldbattery@scbw.png" width="50" height="50"> 실드 배터리
