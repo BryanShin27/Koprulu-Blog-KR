@@ -1,12 +1,29 @@
 ---
 layout: post
-title:  SC Evo Complete 모드 v. 1.10
+title:  SC Evo Complete 모드 v. 1.10.1
 description: 아트 업데이트 및 밸런스 수정
 date:   2024-10-22 11:13:35 +0600
 image:  '/images/EvoExtension1_10.png'
 tags:   [Extension, Update]
 featured: true
 ---
+
+## 업데이트 v. 1.10.1
+
+신규 모델링을 추가하는 소규모 패치입니다. 이 모델링은 저희 후원자분들이 결정해주셨습니다. 그밖에 일부 기존 모델링을 수정하였으며, 래그돌 효과 등을 손보았습니다.
+
+![]({{site.baseurl}}/images/Divider_CoreMods.png)
+
+- 신규 러커 모델링을 추가하였습니다.
+*이 모델링은 움직임, 네가지 사망 모션, 타죽음 및 녹아죽음, 래그돌 등 애니메이션 전반에 걸쳐서 작업이 완성되었습니다. 추후에 다른 모델링도 기대해주세요!*
+
+![]({{site.baseurl}}/images/modelpreview-lurker.png)
+
+- 신규 시즈탱크 래그돌 효과를 추가하였습니다.
+- 시즈탱크 래그돌의 입자 효과를 조정하였습니다.
+- 저그 사망 사운드를 조정하였습니다.
+- 이제 래그돌이 제대로 피격 사운드를 재생합니다.
+- 일부 사소한 데이터를 정리하였습니다.
 
 ## 이보 컴플리트 v. 1.10
 
