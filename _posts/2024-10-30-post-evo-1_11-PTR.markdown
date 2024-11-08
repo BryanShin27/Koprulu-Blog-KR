@@ -2,7 +2,7 @@
 layout: post
 title:  SC Evo Complete 모드 v. 1.11 PTR 
 description: 밸런스 수정
-date:   2024-10-30 11:13:35 +0600
+date:   2024-10-31 02:13:35 +0900
 image:  '/images/EvoPTR1_11.png'
 tags:   [Extension, Update]
 ---

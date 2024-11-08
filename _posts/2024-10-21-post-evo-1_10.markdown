@@ -2,7 +2,7 @@
 layout: post
 title:  SC Evo Complete 모드 v. 1.10.2
 description: 아트 업데이트 및 밸런스 수정
-date:   2024-11-05 11:13:35 +0600
+date:   2024-11-06 02:13:35 +0900
 image:  '/images/EvoExtension1_10.png'
 tags:   [Extension, Update]
 ---

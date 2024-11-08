@@ -2,7 +2,7 @@
 layout: post
 title:  SC Evo Complete 모드 v. 1.11
 description: 밸런스 수정 및 버그 픽스
-date:   2024-11-08 00:55:00 +0600
+date:   2024-11-08 15:55:00 +0900
 image:  '/images/EvoExtension1_11.png'
 tags:   [Extension, Update]
 featured: true

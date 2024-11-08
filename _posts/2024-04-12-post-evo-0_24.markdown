@@ -2,7 +2,7 @@
 layout: post
 title:  SC Evo Complete 모드 업데이트 v. 0.24
 description: 스타 이보 컴플리트의 첫 밸런스 업데이트 및 한국 커뮤니티로부터의 피드백 수용
-date:   2024-04-12 15:01:35 +0000
+date:   2024-04-13 00:01:35 +0900
 image:  '/images/EvoExtension0_24.png'
 tags:   [extension, update]
 ---

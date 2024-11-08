@@ -2,7 +2,7 @@
 layout: post
 title:  SC Evo Complete 모드 v. 1.7
 description: 밸런스 패치 및 개발 소식
-date:   2024-08-05 06:47:35 +0600
+date:   2024-08-05 21:47:35 +0900
 image:  '/images/EvoExtension1_7.png'
 tags:   [Extension, Legacy, Update]
 ---

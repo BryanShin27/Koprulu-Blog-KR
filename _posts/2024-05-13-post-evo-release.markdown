@@ -2,7 +2,7 @@
 layout: post
 title:  SC Evo Complete 모드 v. 1.0
 description: 일부 밸런스 수정과 신규 모델
-date:   2024-05-13 00:01:35 +0000
+date:   2024-05-13 09:01:35 +0900
 image:  '/images/EvoExtension1_0.png'
 tags:   [Extension, Update, Release]
 ---
