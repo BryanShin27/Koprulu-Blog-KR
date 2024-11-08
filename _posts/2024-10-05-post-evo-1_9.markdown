@@ -118,7 +118,7 @@ tags:   [Extension, Update]
 - 이제 스커지가 다른 지상 유닛과 함께 있을 때 적 지상 유닛에게 자동으로 타겟팅되지 않습니다. __(코어)__
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-guardian@scbw.png" width="50" height="50"> 가디언
-- 가디언의 공격 후딜레이가 0.2에서 0.167로 감소하였습니다. __(코어)__
+- 가디언의 공격 선딜레이가 0.2에서 0.167로 감소하였습니다. __(코어)__
 
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)

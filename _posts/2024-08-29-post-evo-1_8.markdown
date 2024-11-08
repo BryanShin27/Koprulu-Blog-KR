@@ -92,7 +92,7 @@ tags:   [Extension, Update, Legacy]
 
 - 히드라리스크의 공격 주기가 1.0312에서 0.938로 감소하였습니다.
 - 히드라리스크의 사거리가 5에서 4로 감소하였습니다.
-- 히드라리스크의 Damage point가 0.208에서 0.08로 감소하였습니다. (*Damage Point란 유닛이 공격 직후 새로운 명령을 수용할 수 있기까지의 시간 차를 뜻합니다)
+- 히드라리스크의 Damage point가 0.208에서 0.08로 감소하였습니다. (*Damage Point란 유닛이 공격 명력 직후 실제 공격이 나가기까지의 시간, 즉 선딜레이를 뜻합니다.)
 
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
