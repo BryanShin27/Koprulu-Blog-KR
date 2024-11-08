@@ -5,7 +5,6 @@ description: 밸런스 수정
 date:   2024-10-30 11:13:35 +0600
 image:  '/images/EvoPTR1_11.png'
 tags:   [Extension, Update]
-featured: true
 ---
 
 ### 공지: 2024년 11월 3일자로 1.11 PTR 버전에 추가 업데이트가 이루어졌습니다. 이 사항은 이번주에 테스트를 거쳐서 SEL 가을 챔피언십 전에 정식 모드로 이식될 것입니다. 최신 변경점은 소개 문단 바로 아래쪽을 봐주시기 바랍니다.
