@@ -1,12 +1,65 @@
 ---
 layout: post
-title:  SC Evo Complete 모드 v. 1.11.2
+title:  SC Evo Complete 모드 v. 1.11.3
 description: 밸런스 수정 및 버그 픽스
-date:   2024-11-08 15:55:00 +0900
+date:   2024-11-15 15:55:00 +0900
 image:  '/images/EvoExtension1_11.png'
 tags:   [Extension, Update]
 featured: true
 ---
+
+## 업데이트 v. 1.11.3
+
+이번 업데이트는 다가오는 2024 SEL 가을 챔피언십을 앞두고 초반 공세의 강세를 조율하기 위한 몇몇 변화를 도입합니다.
+
+슬프게도 한국 블리자드 서버에 이상이 있어 해당 지역에는 업데이트가 적용되지 못하였습니다. 저희는 문제가 해결될 때까지 계속해서 업데이트를 시도할 것입니다.
+
+![]({{site.baseurl}}/images/Divider_CoreMods.png)
+
+- 이제 스타2 종족을 플레이하는 동안 클래식 스킨(스타1 스킨)이 비활성화됩니다.
+
+- 신규 마린 모델링을 추가하였습니다.
+- 신규 셔틀 모델링을 추가하였습니다.
+- 신규 다크 아콘 모델링을 추가하였습니다.
+- 신규 저글링 모델링을 추가하였습니다.
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+### 밸런스 수정
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-marine@scbw.png" width="50" height="50"> 마린
+
+- 마린의 생산 시간이 24에서 25로 증가하였습니다. (매우빠름: 17 -> 18)
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-firebat@scbw.png" width="50" height="50"> 파이어뱃
+
+- 마린의 생산 시간이 24에서 25로 증가하였습니다. (매우빠름: 17 -> 18)
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> 메딕
+
+- 마린의 생산 시간이 24에서 25로 증가하였습니다. (매우빠름: 17 -> 18)
+
+역대 패치 내역 중에는 배럭 및 보병 업그레이드의 생산 속도 증가가 있었습니다. 바로 이 점이 전진 압박을 조장하였습니다. 따라서 저희는 보병 유닛의 생산 속도를 살짝 낮춤으로써 이 문제를 조율하고자 합니다.
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-collection-drone-remastered.png" width="50" height="50"> 드론
+
+- 드론의 공격 주기가 1.5에서 1.6으로 증가하였습니다. (매우빠름: 1.07 -> 1.14)
+
+스타1 저그는 스타2 프로토스를 상대로 정말 강력한 12풀 일꾼 러시를 행사할 수 있으며, 이는 정찰로 파악하여도 막기 어렵습니다. 스타1 저글링의 위력을 고려하여 저희는 드론의 DPS를 조정하게 되었습니다.
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot@scbw.png" width="50" height="50"> 질럿
+
+- 질럿의 플라즈마 실드량이 60에서 65로 증가하였습니다.
+
+저희는 직전에 질럿의 실드량을 70에서 60으로 줄였습니다. 그러나 그 수치 중 일부를 원복하며 다른 하향안들과 균형을 맞추면서 스타1 프로토스의 운영 어려움을 완화해주고자 합니다.
+
+***
 
 ## 업데이트 v. 1.11.2
 
