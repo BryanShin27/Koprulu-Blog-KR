@@ -23,6 +23,8 @@ featured: true
 - 신규 다크 아콘 모델링을 추가하였습니다.
 - 신규 저글링 모델링을 추가하였습니다.
 
+![]({{site.baseurl}}/images/modelpreview-largedrop.png)
+
 ![]({{site.baseurl}}/images/Divider_Extension.png)
 
 ### 밸런스 수정
