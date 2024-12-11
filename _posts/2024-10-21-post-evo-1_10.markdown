@@ -91,7 +91,7 @@ tags:   [Extension, Update]
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> 히드라리스크
 - 이제 히드라리스크의 무기가 투사체에서 즉발로 변경되었습니다. __(코어)__
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker.png" width="50" height="50"> 러커
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker@scbw.png" width="50" height="50"> 러커
 - 러커의 무기 사거리가 7.5에서 7.0으로 감소하였습니다.
 - 러커의 체력이 145에서 140으로 감소하였습니다.
 

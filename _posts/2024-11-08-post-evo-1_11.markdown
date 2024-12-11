@@ -5,7 +5,6 @@ description: 밸런스 수정, 버그 픽스 및 신규 모델링 추가
 date:   2024-11-23 15:55:00 +0900
 image:  '/images/EvoExtension1_11.png'
 tags:   [Extension, Update]
-featured: true
 ---
 
 ## 업데이트 v. 1.11.4
