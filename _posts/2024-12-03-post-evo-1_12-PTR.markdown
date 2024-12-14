@@ -2,13 +2,11 @@
 layout: post
 title:  SC Evo Complete 모드 v. 1.12 PTR
 description: 밸런스 수정
-date:   2024-12-10 19:00:00 +0900
+date:   2024-12-04 13:00:00 +0900
 image:  '/images/EvoPTR1_12.png'
 tags:   [Extension, Update]
 featured: true
 ---
-
-## 이보 컴플리트 v. 1.12 PTR
 
 스타크래프트 에보 컴플리트의 모든 팬 여러분, 안녕하세요.
 
@@ -65,7 +63,7 @@ SEL 가을 챔피언십 중 스피릿의 경기는 땡골리앗이 그 자체로
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-Zergling@scbw.png" width="50" height="50"> 저글링
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-ZerglingSCBW.png" width="50" height="50"> 저글링
 - 저글링의 공격 주기가 0.58에서 0.60으로 증가하였습니다. [0.41 -> 0.43]
 
 치지직컵 이후 1.7 버전이 출시되었을 때, 스타1 종족은 전체적으로 약세였고 스타2에 맞서기 위하여 대규모 상향을 받았었습니다. 이제 스타1 종족이 괜찮은 위치를 선점하기에 저희는 그 중 몇몇 변화를 원복시키려고 합니다. 그 변화 중에는 저글링이 있었고, 저희는 현재 저글링이 조금 과하다고 판단하여 공격 주기를 v.1.7 이전으로 되돌려놓게 되었습니다.
