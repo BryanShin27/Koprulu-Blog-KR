@@ -2,7 +2,7 @@
 layout: post
 title:  SC Evo 래더 모드 베타
 description: 래더 모드 설명
-date:   2025-01-25 04:00:00 +0600
+date:   2025-01-25 19:00:00 +0900
 image:  '/images/LadderBeta.png'
 tags:   [Ladder, Extension, Developer Update, Release]
 featured: true
