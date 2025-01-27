@@ -74,7 +74,7 @@ featured: true
 
 ![]({{site.baseurl}}/images/gamepreview-ladder-1v1Ranked.png)
 
-MMR 획득량은 상대에 따라 변하게 됩니다. 자세한 사항은 개발이 더 진행된 후에 공유해드리겠습니다.\
+MMR 획득량은 상대에 따라 변하게 됩니다. 자세한 사항은 개발이 더 진행된 후에 공유해드리겠습니다.
 
 ***
 
