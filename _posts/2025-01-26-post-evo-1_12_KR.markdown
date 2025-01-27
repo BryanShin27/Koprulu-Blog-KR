@@ -33,8 +33,7 @@ featured: true
 
 ![]({{site.baseurl}}/images/modelpreview-112models.png)
 
-더불어 광물 지대의 셰이더를 갱신하였습니다. Along with that we've updated the shaders of all Mineral Field Models
-
+더불어 광물 지대의 셰이더를 갱신하였습니다.
 
 ### 밸런스 수정
 *공지: 모든 시간 관련 수치는 보통 속도 기준입니다. [아주 빠름]*
@@ -50,7 +49,8 @@ featured: true
 - 고지대 빗나감 확률 적용의 우려사항 완화
     - 이는 스타1 저그(근거리 공격 유닛에 가장 의존적인 종족), 그리고 스타2 공중 유닛을 상대하는 스타1 종족 지상 유닛 간의 교전 상호 작용과 관련되어 있습니다.
 
-### General Changes
+### 공통 변화
+
 - 이제 빗나감 기능이 모든 스타1, 스타2 원거리 공격을 대상으로 적용됩니다.
     - 저지대에서 고지대로 향하는 원거리 공격은 53.125% 확률로 빗나갑니다.
     - 시야 차단물(부시) 내부의 유닛을 대상으로 한 원거리 공격은 53.125% 확률로 빗나갑니다.
@@ -110,7 +110,7 @@ featured: true
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-zergling@scbw.png" width="50" height="50"> 저글링
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-ZerglingSCBW.png" width="50" height="50"> 저글링
 - 저글링의 공격 주기가 0.58에서 0.60으로 증가하였습니다. [0.41 -> 0.43]
 - 아드레날린 분비선의 공격 속도 증가량이 40%에서 45%로 증가하였습니다.
 
@@ -170,8 +170,8 @@ featured: true
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-reaver.png" width="50" height="50"> 리버
 - 리버의 체력이 100에서 110으로 증가하였습니다.
 - 리버의 실드량이 80에서 70으로 감소하였습니다.
-- 리버의 무기 피해량이 105 (+50 vs Shields)에서 100 (+55 vs Shields)으로 바뀌었습니다.
-- 리버 스캐럽 연구의 피해량 증가량이 20 (+35 vs Shields)에서 25 (+30 vs Shields)로 바뀌었습니다.
+- 리버의 무기 피해량이 105 (보호막 대상 +50)에서 100 (보호막 대상 +55)으로 바뀌었습니다.
+- 리버 스캐럽 연구의 피해량 증가량이 20 (보호막 대상 +35)에서 25 (보호막 대상 +30)로 바뀌었습니다.
 - 스캐럽의 이동 속도가 9에서 8로 감소하였습니다. [12.6 -> 11.2]
 - 리버의 선딜레이가 0에서 0.167로 증가하였습니다. [0 -> 0.04]
 - 이제 선택 시 무기 범위가 표시됩니다.
