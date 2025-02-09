@@ -59,7 +59,6 @@ tags:   [Extension, Update, Legacy]
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-marine@scbw.png" width="50" height="50"> 마린
 
 - 마린의 체력이 45에서 40으로 감소하였습니다.
-- 스팀팩 사용시 공격 속도 상승 효과가 50%에서 100%로 증가하였습니다.
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> 벌처
 
