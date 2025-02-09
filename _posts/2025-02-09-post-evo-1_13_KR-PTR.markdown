@@ -66,7 +66,7 @@ featured: true
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-sunkencolony@scbw.png" width="50" height="50"> 성큰 콜로니
+### <img src="{{site.baseurl}}/images/btn-building-zerg-sunkencolony@scbw.png" width="50" height="50"> 성큰 콜로니
 - 성큰 콜로니의 변이 시간이 18에서 21로 증가하였습니다. [12.9 -> 15.0]
 
 최근 스타1 저그 대 스타2 저그 경기에서 성큰 콜로니 러시가 만연하였습니다. 그 짧은 생산 시간으로 인하여 성큰 콜로니가 관여한 러시는 단순 운영 압박에서부터 올인까지 그 스펙트럼이 넓었으며, 상대방이 그 심중을 예측하기가 어렵게 하였습니다. 저희는 이런 빌드에 대응하는 것이 마냥 어렵지는 않다고 생각하면서도, 스타1 저그의 초반 선택지 다양화를 위해 위 변화를 도입하게 되었습니다.
