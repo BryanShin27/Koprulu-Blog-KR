@@ -1,12 +1,22 @@
 ---
 layout: post
-title:  SC Evo Complete 모드 v. 1.12.3
+title:  SC Evo Complete 모드 v. 1.12.4
 description: 밸런스 수정
-date:   2025-02-03 06:00:00 +0900
+date:   2025-02-01 05:45:00 +0900
 image:  '/images/EvoExtension1_12.png'
 tags:   [Extension, Legacy, New Model, Balance, Bugfixes]
 featured: true
 ---
+
+## 업데이트 v. 1.12.4
+
+- 신규 파이어뱃 모델링이 추가되었습니다.
+![]({{site.baseurl}}/images/modelpreview-firebat.png)
+
+- 신규 포지 모델링이 추가되었습니다.
+![]({{site.baseurl}}/images/modelpreview-forge.png)
+
+***
 
 ## 업데이트 v. 1.12.3
 
