@@ -4,7 +4,7 @@ title:  SC Evo Complete 모드 v. 1.6
 description: 소규모 밸런스 패치 및 모드 기능 조정
 date:   2024-07-17 15:21:35 +0900
 image:  '/images/EvoExtension1_6.png'
-tags:   [Extension, Update]
+tags:   [모드, 업데이트]
 ---
 
 ## 이보 컴플리트 v. 1.6

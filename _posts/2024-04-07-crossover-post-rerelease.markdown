@@ -4,7 +4,7 @@ title:  SC Evo Crossover 모드 출시 v. 1.0
 description: 스타1 vs 스타2 모드를 크로스오버 모드로 재출시하며 새로운 메커니즘과 여러 밸런스 패치를 가하였습니다.
 date:   2024-04-08 00:01:35 +0900
 image:  '/images/Crossover1_0.png'
-tags:   [crossover, release]
+tags:   [크로스오버, 출시]
 ---
 
 ## 이보 크로스오버 출시 v. 1.0

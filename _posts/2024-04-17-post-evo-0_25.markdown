@@ -4,7 +4,7 @@ title:  SC Evo Complete 모드 업데이트 v. 0.25
 description: 스타2를 상대로 더 나은 대결을 펼치기 위한 소규모 밸런스 수정
 date:   2024-04-20 00:01:35 +0900
 image:  '/images/EvoExtension0_25.png'
-tags:   [extension, update]
+tags:   [모드, 업데이트]
 ---
 
 ## 이보 컴플리트 v. 0.25

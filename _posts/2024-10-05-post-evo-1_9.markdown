@@ -4,7 +4,7 @@ title:  SC Evo Complete 모드 v. 1.9.3
 description: 밸런스 패치 및 신규 모델링
 date:   2024-10-06 02:13:35 +0900
 image:  '/images/EvoExtension1_9.png'
-tags:   [Extension, Update]
+tags:   [모드, 업데이트]
 ---
 
 ## 업데이트 v. 1.9.3

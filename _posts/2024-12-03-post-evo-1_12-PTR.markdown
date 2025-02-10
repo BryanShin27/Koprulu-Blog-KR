@@ -4,7 +4,7 @@ title:  SC Evo Complete 모드 v. 1.12 PTR
 description: 밸런스 수정
 date:   2024-12-14 19:00:00 +0900
 image:  '/images/EvoPTR1_12.png'
-tags:   [PTR, Extension, Seasonal Event, New Model, Balance, Bugfixes]
+tags:   [PTR, 모드, 시즌 행사, 신규 모델링, 밸런스, 버그픽스]
 ---
 
 ### 공지: 2024년 12월 14일자로 1.12 PTR에 추가 업데이트가 이루어졌습니다. 최신 변화를 보고자 하신다면 소개 단락 바로 아래를 봐주시기 바랍니다.

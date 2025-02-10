@@ -4,7 +4,7 @@ title:  SC Evo Complete 모드 v. 1.13 PTR
 description: 밸런스 수정
 date:   2025-02-10 03:00:00 +0900
 image:  '/images/EvoPTR1_13.png'
-tags:   [PTR, Extension, Balance]
+tags:   [PTR, 모드, 밸런스]
 featured: true
 ---
 

@@ -4,7 +4,7 @@ title:  SC Evo Complete 모드 v. 1.5 (+ 핫픽스 v. 1.5.1~4)
 description: 대규모 밸런스 변경 및 레거시 모드 v. 1.10 
 date:   2024-06-16 15:21:35 +0900
 image:  '/images/EvoExtension1_5.png'
-tags:   [Extension, Update]
+tags:   [모드, 업데이트]
 ---
 
 ## 이보 컴플리트 v. 1.5 (+ 핫픽스 v. 1.5.1~4)

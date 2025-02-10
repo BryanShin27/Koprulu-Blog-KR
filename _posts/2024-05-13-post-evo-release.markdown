@@ -4,7 +4,7 @@ title:  SC Evo Complete 모드 v. 1.0
 description: 일부 밸런스 수정과 신규 모델
 date:   2024-05-13 09:01:35 +0900
 image:  '/images/EvoExtension1_0.png'
-tags:   [Extension, Update, Release]
+tags:   [모드, 업데이트, 출시]
 ---
 
 ## 이보 컴플리트 v. 1.0 정식 출시
