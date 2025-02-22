@@ -5,7 +5,6 @@ description: 밸런스 수정
 date:   2025-02-10 03:00:00 +0900
 image:  '/images/EvoPTR1_13.png'
 tags:   [PTR, 모드, 밸런스]
-featured: true
 ---
 
 ## 에보 컴플리트 v. 1.13 PTR
