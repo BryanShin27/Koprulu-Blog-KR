@@ -119,7 +119,7 @@ featured: true
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-scout q@scbw.png" width="50" height="50"> 스카웃
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-scout@scbw.png" width="50" height="50"> 스카웃
 - 스카웃의 대지 무기 사거리가 4에서 5로 증가하였습니다.
 
 스카웃 활용을 저지하던 유서 깊은 방해 요인으로 스카웃 지상 무기의 무능함이 있었습니다. 이번 변화는 그 사거리가 레이스와 동일하게 함으로써 활용을 더 쉽게 합니다.
