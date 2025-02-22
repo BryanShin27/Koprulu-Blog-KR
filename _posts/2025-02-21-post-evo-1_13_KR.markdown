@@ -26,6 +26,15 @@ featured: true
 
 ![]({{site.baseurl}}/images/Divider_Extension.png)
 
+스타크래프트 리마스터에서 따온 새로운 스킨: 코랄 커맨드 센터가 추가되었습니다. 이 작품은 자치령의 최우수 공학자들이 순금을 이용하여 장인 정신으로 빚어낸 결과물이라 전해집니다.
+
+![]({{site.baseurl}}/images/modelpreview-korhalcc.png)
+
+이 새로운 스킨은 아래 버튼을 눌러 스킨 메뉴에 접속한 뒤에 사용할 수 있습니다.
+
+![]({{site.baseurl}}/images/tut-menubar.png.png)
+
+
 ### 밸런스 수정
 *공지: 모든 시간 관련 수치는 보통 속도 기준입니다. [아주 빠름] 보통 속도 수치는 정확히 그 값인 반면 아주 빠름 수치는 반올림되었습니다.*
 
